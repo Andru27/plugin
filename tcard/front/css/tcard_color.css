@@ -1,0 +1,4004 @@
+/* 
+ Author: Cloanta Alexandru
+ Name: Tcard Wordpress
+ Version: 2.9.1
+*/
+
+/********************
+
+   Air Force Blue
+
+*********************/
+
+.tcard .tcard-front.air-force-blue,
+.tcard .tcard-back.air-force-blue,
+.tcard.skin_2 .tcard-front.air-force-blue:before,
+.tcard.skin_2 .tcard-back.air-force-blue .email, 
+.tcard.skin_2 .tcard-back.air-force-blue .tcard-button-gallery,
+.tcard.skin_3 .air-force-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .air-force-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.air-force-blue:before,
+.tcard.skin_6 .tcard-front.air-force-blue .tcard-content-item h2{
+    background-color: #5d8aa8;
+}
+
+.tcard.skin_1 .tcard-front.air-force-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.air-force-blue .tcard-header-title h2 span{
+    color: #5d8aa8;
+}
+
+.tcard.skin_1 .tcard-back.air-force-blue:before,
+.tcard.skin_2 .tcard-back.air-force-blue .tcard-header:before {
+    background-color: rgba(93, 138, 168, 0.8); 
+}
+
+.tcard.skin_2 .air-force-blue #svg circle {
+    stroke: #5d8aa8;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.air-force-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.air-force-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.air-force-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.air-force-blue:before,
+.tcard.skin_4.frosted-glass .air-force-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(93, 138, 168,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(93, 138, 168,0.5);
+}
+
+.tcard.skin_2.frosted-glass .air-force-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .air-force-blue .email{
+    background-color: rgba(93, 138, 168, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.air-force-blue:before, 
+.tcard.skin_3 .tcard-front.air-force-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(93, 138, 168,.6) 0,#5d8aa8 90%);
+    background: -o-linear-gradient(120deg,rgba(93, 138, 168,.6) 0,#5d8aa8 90%);
+    background: linear-gradient(-30deg,rgba(93, 138, 168,.6) 0,#5d8aa8 90%);
+}
+
+.tcard.skin_4 .air-force-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(93, 138, 168,.8) 0,#5d8aa8 100%);
+    background: -o-linear-gradient(120deg,rgba(93, 138, 168,.8) 0,#5d8aa8 100%);
+    background: linear-gradient(-30deg,rgba(93, 138, 168,.8) 0,#5d8aa8 100%);
+}
+
+/********************
+
+   alizarin
+
+*********************/
+
+.tcard .tcard-front.alizarin,
+.tcard .tcard-back.alizarin,
+.tcard.skin_2 .tcard-front.alizarin:before,
+.tcard.skin_2 .tcard-back.alizarin .email, 
+.tcard.skin_2 .tcard-back.alizarin .tcard-button-gallery,
+.tcard.skin_3 .alizarin .tcard-form .tc-form-button,
+.tcard.skin_4 .alizarin .tcard-submit,
+.tcard.skin_6 .tcard-front.alizarin:before,
+.tcard.skin_6 .tcard-front.alizarin .tcard-content-item h2{
+    background-color: #e74c3c;
+}
+
+.tcard.skin_1 .tcard-front.alizarin .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.alizarin .tcard-header-title h2 span{
+    color: #e74c3c;
+}
+
+.tcard.skin_1 .tcard-back.alizarin:before,
+.tcard.skin_2 .tcard-back.alizarin .tcard-header:before {
+    background-color: rgba(231, 76, 60, 0.8); 
+}
+
+.tcard.skin_2 .alizarin #svg circle {
+    stroke: #e74c3c;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.alizarin:before,
+.tcard.skin_2.frosted-glass .tcard-back.alizarin .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.alizarin:before, 
+.tcard.skin_3.frosted-glass .tcard-front.alizarin:before,
+.tcard.skin_4.frosted-glass .alizarin .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(231, 76, 60,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(231, 76, 60,0.5);
+}
+
+.tcard.skin_2.frosted-glass .alizarin .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .alizarin .email{
+    background-color: rgba(231, 76, 60, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.alizarin:before, 
+.tcard.skin_3 .tcard-front.alizarin:before{
+    background: -webkit-linear-gradient(120deg,rgba(231, 76, 60, 0.6) 0,#e74c3c 90%);
+    background: -o-linear-gradient(120deg,rgba(231, 76, 60, 0.6) 0,#e74c3c 90%);
+    background: linear-gradient(-30deg,rgba(231, 76, 60, 0.6) 0,#e74c3c 90%);
+}
+
+.tcard.skin_4 .alizarin .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(231, 76, 60,0.8) 0,#e74c3c 100%);
+    background: -o-linear-gradient(120deg,rgba(231, 76, 60,0.8) 0,#e74c3c 100%);
+    background: linear-gradient(-30deg,rgba(231, 76, 60,0.8) 0,#e74c3c 100%);
+}
+
+/********************
+
+   alizarin-crimson
+
+*********************/
+
+.tcard .tcard-front.alizarin-crimson,
+.tcard .tcard-back.alizarin-crimson,
+.tcard.skin_2 .tcard-front.alizarin-crimson:before,
+.tcard.skin_2 .tcard-back.alizarin-crimson .email, 
+.tcard.skin_2 .tcard-back.alizarin-crimson .tcard-button-gallery,
+.tcard.skin_3 .alizarin-crimson .tcard-form .tc-form-button,
+.tcard.skin_4 .alizarin-crimson .tcard-submit,
+.tcard.skin_6 .tcard-front.alizarin-crimson:before,
+.tcard.skin_6 .tcard-front.alizarin-crimson .tcard-content-item h2{
+    background-color: #e32636;
+}
+
+.tcard.skin_1 .tcard-front.alizarin-crimson .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.alizarin-crimson .tcard-header-title h2 span{
+    color: #e32636;
+}
+
+.tcard.skin_1 .tcard-back.alizarin-crimson:before,
+.tcard.skin_2 .tcard-back.alizarin-crimson .tcard-header:before {
+    background-color: rgba(227, 38, 54, 0.8); 
+}
+
+.tcard.skin_2 .alizarin-crimson #svg circle {
+    stroke: #e32636;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.alizarin-crimson:before,
+.tcard.skin_2.frosted-glass .tcard-back.alizarin-crimson .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.alizarin-crimson:before, 
+.tcard.skin_3.frosted-glass .tcard-front.alizarin-crimson:before,
+.tcard.skin_4.frosted-glass .alizarin-crimson .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(227, 38, 54,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(227, 38, 54,0.5);
+}
+
+.tcard.skin_2.frosted-glass .alizarin-crimson .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .alizarin-crimson .email{
+    background-color: rgba(227, 38, 54, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.alizarin-crimson:before, 
+.tcard.skin_3 .tcard-front.alizarin-crimson:before{
+    background: -webkit-linear-gradient(120deg,rgba(227, 38, 54,.6) 0,#e32636 90%);
+    background: -o-linear-gradient(120deg,rgba(227, 38, 54,.6) 0,#e32636 90%);
+    background: linear-gradient(-30deg,rgba(227, 38, 54,.6) 0,#e32636 90%);
+}
+
+.tcard.skin_4 .alizarin-crimson .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(227, 38, 54,.8) 0,#e32636 100%);
+    background: -o-linear-gradient(120deg,rgba(227, 38, 54,.8) 0,#e32636 100%);
+    background: linear-gradient(-30deg,rgba(227, 38, 54,.8) 0,#e32636 100%);
+}
+
+/********************
+
+   amaranth
+
+*********************/
+
+.tcard .tcard-front.amaranth,
+.tcard .tcard-back.amaranth,
+.tcard.skin_2 .tcard-front.amaranth:before,
+.tcard.skin_2 .tcard-back.amaranth .email, 
+.tcard.skin_2 .tcard-back.amaranth .tcard-button-gallery,
+.tcard.skin_3 .amaranth .tcard-form .tc-form-button,
+.tcard.skin_4 .amaranth .tcard-submit,
+.tcard.skin_6 .tcard-front.amaranth:before,
+.tcard.skin_6 .tcard-front.amaranth .tcard-content-item h2{
+    background-color: #e52b50;
+}
+
+.tcard.skin_1 .tcard-front.amaranth .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.amaranth .tcard-header-title h2 span{
+    color: #e52b50;
+}
+
+.tcard.skin_1 .tcard-back.amaranth:before,
+.tcard.skin_2 .tcard-back.amaranth .tcard-header:before {
+    background-color: rgba(229, 43, 80, 0.8); 
+}
+
+.tcard.skin_2 .amaranth #svg circle {
+    stroke: #e52b50;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.amaranth:before,
+.tcard.skin_2.frosted-glass .tcard-back.amaranth .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.amaranth:before, 
+.tcard.skin_3.frosted-glass .tcard-front.amaranth:before,
+.tcard.skin_4.frosted-glass .amaranth .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(229, 43, 80,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(229, 43, 80,0.5);
+}
+
+.tcard.skin_2.frosted-glass .amaranth .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .amaranth .email{
+    background-color: rgba(229, 43, 80, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.amaranth:before, 
+.tcard.skin_3 .tcard-front.amaranth:before{
+    background: -webkit-linear-gradient(120deg,rgba(229, 43, 80,.6) 0,#e52b50 90%);
+    background: -o-linear-gradient(120deg,rgba(229, 43, 80,.6) 0,#e52b50 90%);
+    background: linear-gradient(-30deg,rgba(229, 43, 80,.6) 0,#e52b50 90%);
+}
+
+.tcard.skin_4 .amaranth .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(229, 43, 80,.8) 0,#e52b50 100%);
+    background: -o-linear-gradient(120deg,rgba(229, 43, 80,.8) 0,#e52b50 100%);
+    background: linear-gradient(-30deg,rgba(229, 43, 80,.8) 0,#e52b50 100%);
+}
+
+/********************
+
+   amber
+
+*********************/
+
+.tcard .tcard-front.amber,
+.tcard .tcard-back.amber,
+.tcard.skin_2 .tcard-front.amber:before,
+.tcard.skin_2 .tcard-back.amber .email, 
+.tcard.skin_2 .tcard-back.amber .tcard-button-gallery,
+.tcard.skin_3 .amber .tcard-form .tc-form-button,
+.tcard.skin_4 .amber .tcard-submit,
+.tcard.skin_6 .tcard-front.amber:before,
+.tcard.skin_6 .tcard-front.amber .tcard-content-item h2{
+    background-color: #ffbf00;
+}
+
+.tcard.skin_1 .tcard-front.amber .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.amber .tcard-header-title h2 span{
+    color: #ffbf00;
+}
+
+.tcard.skin_1 .tcard-back.amber:before,
+.tcard.skin_2 .tcard-back.amber .tcard-header:before {
+    background-color: rgba(255, 191, 0, 0.8); 
+}
+
+.tcard.skin_2 .amber #svg circle {
+    stroke: #ffbf00;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.amber:before,
+.tcard.skin_2.frosted-glass .tcard-back.amber .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.amber:before, 
+.tcard.skin_3.frosted-glass .tcard-front.amber:before,
+.tcard.skin_4.frosted-glass .amber .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(255, 191, 0,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(255, 191, 0,0.5);
+}
+
+.tcard.skin_2.frosted-glass .amber .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .amber .email{
+    background-color: rgba(255, 191, 0, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.amber:before, 
+.tcard.skin_3 .tcard-front.amber:before{
+    background: -webkit-linear-gradient(120deg,rgba(255, 191, 0,.6) 0,#ffbf00 90%);
+    background: -o-linear-gradient(120deg,rgba(255, 191, 0,.6) 0,#ffbf00 90%);
+    background: linear-gradient(-30deg,rgba(255, 191, 0,.6) 0,#ffbf00 90%);
+}
+
+.tcard.skin_4 .amber .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(255, 191, 0,.8) 0,#ffbf00 100%);
+    background: -o-linear-gradient(120deg,rgba(255, 191, 0,.8) 0,#ffbf00 100%);
+    background: linear-gradient(-30deg,rgba(255, 191, 0,.8) 0,#ffbf00 100%);
+}
+
+
+/********************
+
+   american-rose
+
+*********************/
+
+.tcard .tcard-front.american-rose,
+.tcard .tcard-back.american-rose,
+.tcard.skin_2 .tcard-front.american-rose:before,
+.tcard.skin_2 .tcard-back.american-rose .email, 
+.tcard.skin_2 .tcard-back.american-rose .tcard-button-gallery,
+.tcard.skin_3 .american-rose .tcard-form .tc-form-button,
+.tcard.skin_4 .american-rose .tcard-submit,
+.tcard.skin_6 .tcard-front.american-rose:before,
+.tcard.skin_6 .tcard-front.american-rose .tcard-content-item h2{
+    background-color: #ff033e;
+}
+
+.tcard.skin_1 .tcard-front.american-rose .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.american-rose .tcard-header-title h2 span{
+    color: #ff033e;
+}
+
+.tcard.skin_1 .tcard-back.american-rose:before,
+.tcard.skin_2 .tcard-back.american-rose .tcard-header:before {
+    background-color: rgba(255, 3, 62, 0.8); 
+}
+
+.tcard.skin_2 .american-rose #svg circle {
+    stroke: #ff033e;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.american-rose:before,
+.tcard.skin_2.frosted-glass .tcard-back.american-rose .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.american-rose:before, 
+.tcard.skin_3.frosted-glass .tcard-front.american-rose:before,
+.tcard.skin_4.frosted-glass .american-rose .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(255, 3, 62,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(255, 3, 62,0.5);
+}
+
+.tcard.skin_2.frosted-glass .american-rose .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .american-rose .email{
+    background-color: rgba(255, 3, 62, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.american-rose:before, 
+.tcard.skin_3 .tcard-front.american-rose:before{
+    background: -webkit-linear-gradient(120deg,rgba(255, 3, 62,.6) 0,#ff033e 90%);
+    background: -o-linear-gradient(120deg,rgba(255, 3, 62,.6) 0,#ff033e 90%);
+    background: linear-gradient(-30deg,rgba(255, 3, 62,.6) 0,#ff033e 90%);
+}
+
+.tcard.skin_4 .american-rose .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(255, 3, 62,.8) 0,#ff033e 100%);
+    background: -o-linear-gradient(120deg,rgba(255, 3, 62,.8) 0,#ff033e 100%);
+    background: linear-gradient(-30deg,rgba(255, 3, 62,.8) 0,#ff033e 100%);
+}
+
+/********************
+
+   android-green
+
+*********************/
+
+.tcard .tcard-front.android-green,
+.tcard .tcard-back.android-green,
+.tcard.skin_2 .tcard-front.android-green:before,
+.tcard.skin_2 .tcard-back.android-green .email, 
+.tcard.skin_2 .tcard-back.android-green .tcard-button-gallery,
+.tcard.skin_3 .android-green .tcard-form .tc-form-button,
+.tcard.skin_4 .android-green .tcard-submit,
+.tcard.skin_6 .tcard-front.android-green:before,
+.tcard.skin_6 .tcard-front.android-green .tcard-content-item h2{
+    background-color: #a4c639;
+}
+
+.tcard.skin_1 .tcard-front.android-green .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.android-green .tcard-header-title h2 span{
+    color: #a4c639;
+}
+
+.tcard.skin_1 .tcard-back.android-green:before,
+.tcard.skin_2 .tcard-back.android-green .tcard-header:before {
+    background-color: rgba(164, 198, 57, 0.8); 
+}
+
+.tcard.skin_2 .android-green #svg circle {
+    stroke: #a4c639;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.android-green:before,
+.tcard.skin_2.frosted-glass .tcard-back.android-green .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.android-green:before, 
+.tcard.skin_3.frosted-glass .tcard-front.android-green:before,
+.tcard.skin_4.frosted-glass .android-green .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(164, 198, 57,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(164, 198, 57,0.5);
+}
+
+.tcard.skin_2.frosted-glass .android-green .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .android-green .email{
+    background-color: rgba(164, 198, 57, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.android-green:before, 
+.tcard.skin_3 .tcard-front.android-green:before{
+    background: -webkit-linear-gradient(120deg,rgba(164, 198, 57,.6) 0,#a4c639 90%);
+    background: -o-linear-gradient(120deg,rgba(164, 198, 57,.6) 0,#a4c639 90%);
+    background: linear-gradient(-30deg,rgba(164, 198, 57,.6) 0,#a4c639 90%);
+}
+
+.tcard.skin_4 .android-green .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(164, 198, 57,.8) 0,#a4c639 100%);
+    background: -o-linear-gradient(120deg,rgba(164, 198, 57,.8) 0,#a4c639 100%);
+    background: linear-gradient(-30deg,rgba(164, 198, 57,.8) 0,#a4c639 100%);
+}
+
+/********************
+
+   awesome
+
+*********************/
+
+.tcard .tcard-front.awesome,
+.tcard .tcard-back.awesome,
+.tcard.skin_2 .tcard-front.awesome:before,
+.tcard.skin_2 .tcard-back.awesome .email, 
+.tcard.skin_2 .tcard-back.awesome .tcard-button-gallery,
+.tcard.skin_3 .awesome .tcard-form .tc-form-button,
+.tcard.skin_4 .awesome .tcard-submit,
+.tcard.skin_6 .tcard-front.awesome:before,
+.tcard.skin_6 .tcard-front.awesome .tcard-content-item h2{
+    background-color: #ff2052;
+}
+
+.tcard.skin_1 .tcard-front.awesome .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.awesome .tcard-header-title h2 span{
+    color: #ff2052;
+}
+
+.tcard.skin_1 .tcard-back.awesome:before,
+.tcard.skin_2 .tcard-back.awesome .tcard-header:before {
+    background-color: rgba(255, 32, 82, 0.8); 
+}
+
+.tcard.skin_2 .awesome #svg circle {
+    stroke: #ff2052;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.awesome:before,
+.tcard.skin_2.frosted-glass .tcard-back.awesome .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.awesome:before, 
+.tcard.skin_3.frosted-glass .tcard-front.awesome:before,
+.tcard.skin_4.frosted-glass .awesome .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(255, 32, 82,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(255, 32, 82,0.5);
+}
+
+.tcard.skin_2.frosted-glass .awesome .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .awesome .email{
+    background-color: rgba(255, 32, 82, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.awesome:before, 
+.tcard.skin_3 .tcard-front.awesome:before{
+    background: -webkit-linear-gradient(120deg,rgba(255, 32, 82,.6) 0,#ff2052 90%);
+    background: -o-linear-gradient(120deg,rgba(255, 32, 82,.6) 0,#ff2052 90%);
+    background: linear-gradient(-30deg,rgba(255, 32, 82,.6) 0,#ff2052 90%);
+}
+
+.tcard.skin_4 .awesome .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(255, 32, 82,.8) 0,#ff2052 100%);
+    background: -o-linear-gradient(120deg,rgba(255, 32, 82,.8) 0,#ff2052 100%);
+    background: linear-gradient(-30deg,rgba(255, 32, 82,.8) 0,#ff2052 100%);
+}
+
+
+/********************
+
+   azure
+
+*********************/
+
+.tcard .tcard-front.azure,
+.tcard .tcard-back.azure,
+.tcard.skin_2 .tcard-front.azure:before,
+.tcard.skin_2 .tcard-back.azure .email, 
+.tcard.skin_2 .tcard-back.azure .tcard-button-gallery,
+.tcard.skin_3 .azure .tcard-form .tc-form-button,
+.tcard.skin_4 .azure .tcard-submit,
+.tcard.skin_6 .tcard-front.azure:before,
+.tcard.skin_6 .tcard-front.azure .tcard-content-item h2{
+    background-color: #007fff;
+}
+
+.tcard.skin_1 .tcard-front.azure .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.azure .tcard-header-title h2 span{
+    color: #007fff;
+}
+
+.tcard.skin_1 .tcard-back.azure:before,
+.tcard.skin_2 .tcard-back.azure .tcard-header:before {
+    background-color: rgba(0, 127, 255, 0.8); 
+}
+
+.tcard.skin_2 .azure #svg circle {
+    stroke: #007fff;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.azure:before,
+.tcard.skin_2.frosted-glass .tcard-back.azure .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.azure:before, 
+.tcard.skin_3.frosted-glass .tcard-front.azure:before,
+.tcard.skin_4.frosted-glass .azure .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 127, 255,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 127, 255,0.5);
+}
+
+.tcard.skin_2.frosted-glass .azure .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .azure .email{
+    background-color: rgba(0, 127, 255, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.azure:before, 
+.tcard.skin_3 .tcard-front.azure:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 127, 255,.6) 0,#007fff 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 127, 255,.6) 0,#007fff 90%);
+    background: linear-gradient(-30deg,rgba(0, 127, 255,.6) 0,#007fff 90%);
+}
+
+.tcard.skin_4 .azure .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 127, 255,.8) 0,#007fff 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 127, 255,.8) 0,#007fff 100%);
+    background: linear-gradient(-30deg,rgba(0, 127, 255,.8) 0,#007fff 100%);
+}
+
+
+/********************
+
+   beige
+
+*********************/
+
+.tcard .tcard-front.beige,
+.tcard .tcard-back.beige,
+.tcard.skin_2 .tcard-front.beige:before,
+.tcard.skin_2 .tcard-back.beige .email, 
+.tcard.skin_2 .tcard-back.beige .tcard-button-gallery,
+.tcard.skin_6 .tcard-front.beige:before,
+.tcard.skin_6 .tcard-front.beige .tcard-content-item h2{
+    background-color: #f5f5dc;
+}
+
+.tcard.skin_1 .tcard-front.beige .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.beige .tcard-header-title h2 span{
+    color: #f5f5dc;
+}
+
+.tcard.skin_1 .tcard-back.beige:before,
+.tcard.skin_2 .tcard-back.beige .tcard-header:before {
+    background-color: rgba(245, 245, 220, 0.8); 
+}
+
+.tcard.skin_2 .beige #svg circle {
+    stroke: #323232;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.beige:before,
+.tcard.skin_2.frosted-glass .tcard-back.beige .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.beige:before, 
+.tcard.skin_3.frosted-glass .tcard-front.beige:before,
+.tcard.skin_4.frosted-glass .beige .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(245, 245, 220,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(245, 245, 220,0.5);
+}
+
+.tcard.skin_2.frosted-glass .beige .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .beige .email{
+    background-color: rgba(245, 245, 220, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.beige:before, 
+.tcard.skin_3 .tcard-front.beige:before{
+    background: -webkit-linear-gradient(120deg,rgba(245, 245, 220,.6) 0,#f5f5dc 90%);
+    background: -o-linear-gradient(120deg,rgba(245, 245, 220,.6) 0,#f5f5dc 90%);
+    background: linear-gradient(-30deg,rgba(245, 245, 220,.6) 0,#f5f5dc 90%);
+}
+
+.tcard.skin_4 .beige .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(245, 245, 220,.8) 0,#f5f5dc 100%);
+    background: -o-linear-gradient(120deg,rgba(245, 245, 220,.8) 0,#f5f5dc 100%);
+    background: linear-gradient(-30deg,rgba(245, 245, 220,.8) 0,#f5f5dc 100%);
+}
+
+
+.tcard .beige,
+.tcard .beige .tcard-button.social_button .tcard-social-list a,
+.tcard.skin_1 .tcard-back.beige .skill-title,
+.tcard .beige .email, 
+.tcard .beige .tcard-button-gallery,
+.tcard .beige .tcard-header-title h2,
+.tcard .beige .info_list .tcard-list li p,
+.tcard .beige .content-info h3,
+.tcard .beige .social_list .tcard-list li a,
+.tcard .beige .tcard-login-title,
+.tcard .beige .tcard-login a,
+.tcard .beige .tc-login_display_title.before_log h2,
+.tcard .beige .tcard-form-item label, 
+.tcard .beige .tcard-icon,
+.tcard .beige .tcard-header-info h3,
+.tcard.skin_6 .beige .tcard-content-item h2,
+.tcard.skin_3 .beige .tcard-content-item h2,
+.tcard .beige .tcard-ellipsis_text h3,
+.tcard .beige .tcard-ellipsis_text h2{
+    color: #323232;
+}
+
+.tcard.skin_5 .beige .tcard-header-title h2,
+.tcard .beige .tc-post-date{
+    color: #fff;
+}
+
+.tcard .beige .tcard-button .tcard-btn-line,
+.tcard .beige .tcard-button.social_button .tcard-btn-line:nth-child(2):before, 
+.tcard .beige .tcard-button.social_button .tcard-btn-line:nth-child(3):before,
+.tcard.skin_4 .beige .tcard-submit,
+.tcard .beige .tcard-form .tc-form-button{
+    background: #323232 !important;
+}
+
+.tcard .beige .tcard-progress-bar{
+    background: rgba(50, 50, 50,0.7);
+}
+
+.tcard .beige .tcard-bar{
+    background: rgba(50, 50, 50,0.9);
+}
+
+.tcard .beige .content-info,
+.tcard .beige .tcard-footer h4,
+.tcard.skin_1 .beige li h4,
+.tcard .beige .tc_button .tcard-button{
+    color: rgba(50, 50, 50,0.9);
+}
+
+.tcard .beige .tcard-form-item.remember .tocheck{
+    background: rgba(50, 50, 50,0.1);
+    -webkit-box-shadow: inset 0px 0px 5px 0px rgba(50,50,50,1);
+    box-shadow: inset 0px 0px 5px 0px rgba(50,50,50,1);
+}
+
+.tcard .beige .tcard-avatar,
+.tcard .beige .tcard-button-gallery.icon, 
+.tcard .beige .email.icon,
+.tcard .beige .tcard-form-item.remember .tocheck:before,
+.tcard .beige .tcard-form-item input{
+    border-color: rgba(50, 50, 50,0.7);
+}
+
+.tcard .lemon-lime .tcard-form-item input{
+    border-bottom: 1px solid rgba(50,50,50,.3);
+}
+
+
+
+/********************
+
+   black
+
+*********************/
+
+.tcard .tcard-front.black,
+.tcard .tcard-back.black,
+.tcard.skin_2 .tcard-front.black:before,
+.tcard.skin_2 .tcard-back.black .email, 
+.tcard.skin_2 .tcard-back.black .tcard-button-gallery,
+.tcard.skin_3 .black .tcard-form .tc-form-button,
+.tcard.skin_4 .black .tcard-submit,
+.tcard.skin_6 .tcard-front.black:before,
+.tcard.skin_6 .tcard-front.black .tcard-content-item h2{
+    background-color: #000000;
+}
+
+.tcard.skin_1 .tcard-front.black .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.black .tcard-header-title h2 span{
+    color: #000000;
+}
+
+.tcard.skin_1 .tcard-back.black:before,
+.tcard.skin_2 .tcard-back.black .tcard-header:before {
+    background-color: rgba(0, 0, 0, 0.8); 
+}
+
+.tcard.skin_2 .black #svg circle {
+    stroke: #000000;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.black:before,
+.tcard.skin_2.frosted-glass .tcard-back.black .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.black:before, 
+.tcard.skin_3.frosted-glass .tcard-front.black:before,
+.tcard.skin_4.frosted-glass .black .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 0, 0,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0,0.5);
+}
+
+.tcard.skin_2.frosted-glass .black .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .black .email{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.black:before, 
+.tcard.skin_3 .tcard-front.black:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 0, 0,.6) 0,#000000 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 0, 0,.6) 0,#000000 90%);
+    background: linear-gradient(-30deg,rgba(0, 0, 0,.6) 0,#000000 90%);
+}
+
+.tcard.skin_4 .black .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 0, 0,.8) 0,#000000 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 0, 0,.8) 0,#000000 100%);
+    background: linear-gradient(-30deg,rgba(0, 0, 0,.8) 0,#000000 100%);
+}
+
+
+/********************
+
+   blue
+
+*********************/
+
+.tcard .tcard-front.blue,
+.tcard .tcard-back.blue,
+.tcard.skin_2 .tcard-front.blue:before,
+.tcard.skin_2 .tcard-back.blue .email, 
+.tcard.skin_2 .tcard-back.blue .tcard-button-gallery,
+.tcard.skin_3 .blue .tcard-form .tc-form-button,
+.tcard.skin_4 .blue .tcard-submit,
+.tcard.skin_6 .tcard-front.blue:before,
+.tcard.skin_6 .tcard-front.blue .tcard-content-item h2{
+    background-color: #0000FF;
+}
+
+.tcard.skin_1 .tcard-front.blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.blue .tcard-header-title h2 span{
+    color: #0000FF;
+}
+
+.tcard.skin_1 .tcard-back.blue:before,
+.tcard.skin_2 .tcard-back.blue .tcard-header:before {
+    background-color: rgba(0, 0, 255, 0.8); 
+}
+
+.tcard.skin_2 .blue #svg circle {
+    stroke: #0000FF;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.blue:before,
+.tcard.skin_4.frosted-glass .blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 0, 255,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 255,0.5);
+}
+
+.tcard.skin_2.frosted-glass .blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .blue .email{
+    background-color: rgba(0, 0, 255, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.blue:before, 
+.tcard.skin_3 .tcard-front.blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 0, 255,.6) 0,#0000FF 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 0, 255,.6) 0,#0000FF 90%);
+    background: linear-gradient(-30deg,rgba(0, 0, 255,.6) 0,#0000FF 90%);
+}
+
+.tcard.skin_4 .blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 0, 255,.8) 0,#0000FF 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 0, 255,.8) 0,#0000FF 100%);
+    background: linear-gradient(-30deg,rgba(0, 0, 255,.8) 0,#0000FF 100%);
+}
+
+/********************
+
+   darkblue
+
+*********************/
+
+.tcard .tcard-front.darkblue,
+.tcard .tcard-back.darkblue,
+.tcard.skin_2 .tcard-front.darkblue:before,
+.tcard.skin_2 .tcard-back.darkblue .email, 
+.tcard.skin_2 .tcard-back.darkblue .tcard-button-gallery,
+.tcard.skin_3 .darkblue .tcard-form .tc-form-button,
+.tcard.skin_4 .darkblue .tcard-submit,
+.tcard.skin_6 .tcard-front.darkblue:before,
+.tcard.skin_6 .tcard-front.darkblue .tcard-content-item h2{
+    background-color: #00008B;
+}
+
+.tcard.skin_1 .tcard-front.darkblue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.darkblue .tcard-header-title h2 span{
+    color: #00008B;
+}
+
+.tcard.skin_1 .tcard-back.darkblue:before,
+.tcard.skin_2 .tcard-back.darkblue .tcard-header:before {
+    background-color: rgba(0, 0, 139, 0.8); 
+}
+
+.tcard.skin_2 .darkblue #svg circle {
+    stroke: #00008B;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.darkblue:before,
+.tcard.skin_2.frosted-glass .tcard-back.darkblue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.darkblue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.darkblue:before,
+.tcard.skin_4.frosted-glass .darkblue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 0, 139,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 139,0.5);
+}
+
+.tcard.skin_2.frosted-glass .darkblue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .darkblue .email{
+    background-color: rgba(0, 0, 139, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.darkblue:before, 
+.tcard.skin_3 .tcard-front.darkblue:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 0, 139,.6) 0,#00008B 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 0, 139,.6) 0,#00008B 90%);
+    background: linear-gradient(-30deg,rgba(0, 0, 139,.6) 0,#00008B 90%);
+}
+
+.tcard.skin_4 .darkblue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 0, 139,.8) 0,#00008B 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 0, 139,.8) 0,#00008B 100%);
+    background: linear-gradient(-30deg,rgba(0, 0, 139,.8) 0,#00008B 100%);
+}
+
+
+/********************
+
+   ball-blue
+
+*********************/
+
+.tcard .tcard-front.ball-blue,
+.tcard .tcard-back.ball-blue,
+.tcard.skin_2 .tcard-front.ball-blue:before,
+.tcard.skin_2 .tcard-back.ball-blue .email, 
+.tcard.skin_2 .tcard-back.ball-blue .tcard-button-gallery,
+.tcard.skin_3 .ball-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .ball-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.ball-blue:before,
+.tcard.skin_6 .tcard-front.ball-blue .tcard-content-item h2{
+    background-color: #21abcd;
+}
+
+.tcard.skin_1 .tcard-front.ball-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.ball-blue .tcard-header-title h2 span{
+    color: #21abcd;
+}
+
+.tcard.skin_1 .tcard-back.ball-blue:before,
+.tcard.skin_2 .tcard-back.ball-blue .tcard-header:before {
+    background-color: rgba(33, 171, 205, 0.8); 
+}
+
+.tcard.skin_2 .ball-blue #svg circle {
+    stroke: #21abcd;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.ball-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.ball-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.ball-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.ball-blue:before,
+.tcard.skin_4.frosted-glass .ball-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(33, 171, 205,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(33, 171, 205,0.5);
+}
+
+.tcard.skin_2.frosted-glass .ball-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .ball-blue .email{
+    background-color: rgba(33, 171, 205, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.ball-blue:before, 
+.tcard.skin_3 .tcard-front.ball-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(33, 171, 205,.6) 0,#21abcd 90%);
+    background: -o-linear-gradient(120deg,rgba(33, 171, 205,.6) 0,#21abcd 90%);
+    background: linear-gradient(-30deg,rgba(33, 171, 205,.6) 0,#21abcd 90%);
+}
+
+.tcard.skin_4 .ball-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(33, 171, 205,.8) 0,#21abcd 100%);
+    background: -o-linear-gradient(120deg,rgba(33, 171, 205,.8) 0,#21abcd 100%);
+    background: linear-gradient(-30deg,rgba(33, 171, 205,.8) 0,#21abcd 100%);
+}
+
+
+/********************
+
+   bleu-de-france
+
+*********************/
+
+.tcard .tcard-front.bleu-de-france,
+.tcard .tcard-back.bleu-de-france,
+.tcard.skin_2 .tcard-front.bleu-de-france:before,
+.tcard.skin_2 .tcard-back.bleu-de-france .email, 
+.tcard.skin_2 .tcard-back.bleu-de-france .tcard-button-gallery,
+.tcard.skin_3 .bleu-de-france .tcard-form .tc-form-button,
+.tcard.skin_4 .bleu-de-france .tcard-submit,
+.tcard.skin_6 .tcard-front.bleu-de-france:before,
+.tcard.skin_6 .tcard-front.bleu-de-france .tcard-content-item h2{
+    background-color: #318ce7;
+}
+
+.tcard.skin_1 .tcard-front.bleu-de-france .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.bleu-de-france .tcard-header-title h2 span{
+    color: #318ce7;
+}
+
+.tcard.skin_1 .tcard-back.bleu-de-france:before,
+.tcard.skin_2 .tcard-back.bleu-de-france .tcard-header:before {
+    background-color: rgba(49, 140, 231, 0.8); 
+}
+
+.tcard.skin_2 .bleu-de-france #svg circle {
+    stroke: #318ce7;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.bleu-de-france:before,
+.tcard.skin_2.frosted-glass .tcard-back.bleu-de-france .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.bleu-de-france:before, 
+.tcard.skin_3.frosted-glass .tcard-front.bleu-de-france:before,
+.tcard.skin_4.frosted-glass .bleu-de-france .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(49, 140, 231,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(49, 140, 231,0.5);
+}
+
+.tcard.skin_2.frosted-glass .bleu-de-france .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .bleu-de-france .email{
+    background-color: rgba(49, 140, 231, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.bleu-de-france:before, 
+.tcard.skin_3 .tcard-front.bleu-de-france:before{
+    background: -webkit-linear-gradient(120deg,rgba(49, 140, 231,.6) 0,#318ce7 90%);
+    background: -o-linear-gradient(120deg,rgba(49, 140, 231,.6) 0,#318ce7 90%);
+    background: linear-gradient(-30deg,rgba(49, 140, 231,.6) 0,#318ce7 90%);
+}
+
+.tcard.skin_4 .bleu-de-france .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(49, 140, 231,.8) 0,#318ce7 100%);
+    background: -o-linear-gradient(120deg,rgba(49, 140, 231,.8) 0,#318ce7 100%);
+    background: linear-gradient(-30deg,rgba(49, 140, 231,.8) 0,#318ce7 100%);
+}
+
+
+/********************
+
+   blue-green
+
+*********************/
+
+.tcard .tcard-front.blue-green,
+.tcard .tcard-back.blue-green,
+.tcard.skin_2 .tcard-front.blue-green:before,
+.tcard.skin_2 .tcard-back.blue-green .email, 
+.tcard.skin_2 .tcard-back.blue-green .tcard-button-gallery,
+.tcard.skin_3 .blue-green .tcard-form .tc-form-button,
+.tcard.skin_4 .blue-green .tcard-submit,
+.tcard.skin_6 .tcard-front.blue-green:before,
+.tcard.skin_6 .tcard-front.blue-green .tcard-content-item h2{
+    background-color: #0d98ba;
+}
+
+.tcard.skin_1 .tcard-front.blue-green .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.blue-green .tcard-header-title h2 span{
+    color: #0d98ba;
+}
+
+.tcard.skin_1 .tcard-back.blue-green:before,
+.tcard.skin_2 .tcard-back.blue-green .tcard-header:before {
+    background-color: rgba(13, 152, 186, 0.8); 
+}
+
+.tcard.skin_2 .blue-green #svg circle {
+    stroke: #0d98ba;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.blue-green:before,
+.tcard.skin_2.frosted-glass .tcard-back.blue-green .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.blue-green:before, 
+.tcard.skin_3.frosted-glass .tcard-front.blue-green:before,
+.tcard.skin_4.frosted-glass .blue-green .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(13, 152, 186,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(13, 152, 186,0.5);
+}
+
+.tcard.skin_2.frosted-glass .blue-green .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .blue-green .email{
+    background-color: rgba(13, 152, 186, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.blue-green:before, 
+.tcard.skin_3 .tcard-front.blue-green:before{
+    background: -webkit-linear-gradient(120deg,rgba(13, 152, 186,.6) 0,#0d98ba 90%);
+    background: -o-linear-gradient(120deg,rgba(13, 152, 186,.6) 0,#0d98ba 90%);
+    background: linear-gradient(-30deg,rgba(13, 152, 186,.6) 0,#0d98ba 90%);
+}
+
+.tcard.skin_4 .blue-green .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(13, 152, 186,.8) 0,#0d98ba 100%);
+    background: -o-linear-gradient(120deg,rgba(13, 152, 186,.8) 0,#0d98ba 100%);
+    background: linear-gradient(-30deg,rgba(13, 152, 186,.8) 0,#0d98ba 100%);
+}
+
+
+/********************
+
+   blue-purple
+
+*********************/
+
+.tcard .tcard-front.blue-purple,
+.tcard .tcard-back.blue-purple,
+.tcard.skin_2 .tcard-front.blue-purple:before,
+.tcard.skin_2 .tcard-back.blue-purple .email, 
+.tcard.skin_2 .tcard-back.blue-purple .tcard-button-gallery,
+.tcard.skin_3 .blue-purple .tcard-form .tc-form-button,
+.tcard.skin_4 .blue-purple .tcard-submit,
+.tcard.skin_6 .tcard-front.blue-purple:before,
+.tcard.skin_6 .tcard-front.blue-purple .tcard-content-item h2{
+    background-color: #8a2be2;
+}
+
+.tcard.skin_1 .tcard-front.blue-purple .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.blue-purple .tcard-header-title h2 span{
+    color: #8a2be2;
+}
+
+.tcard.skin_1 .tcard-back.blue-purple:before,
+.tcard.skin_2 .tcard-back.blue-purple .tcard-header:before {
+    background-color: rgba(138, 43, 226, 0.8); 
+}
+
+.tcard.skin_2 .blue-purple #svg circle {
+    stroke: #8a2be2;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.blue-purple:before,
+.tcard.skin_2.frosted-glass .tcard-back.blue-purple .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.blue-purple:before, 
+.tcard.skin_3.frosted-glass .tcard-front.blue-purple:before,
+.tcard.skin_4.frosted-glass .blue-purple .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(138, 43, 226,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(138, 43, 226,0.5);
+}
+
+.tcard.skin_2.frosted-glass .blue-purple .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .blue-purple .email{
+    background-color: rgba(138, 43, 226, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.blue-purple:before, 
+.tcard.skin_3 .tcard-front.blue-purple:before{
+    background: -webkit-linear-gradient(120deg,rgba(138, 43, 226,.6) 0,#8a2be2 90%);
+    background: -o-linear-gradient(120deg,rgba(138, 43, 226,.6) 0,#8a2be2 90%);
+    background: linear-gradient(-30deg,rgba(138, 43, 226,.6) 0,#8a2be2 90%);
+}
+
+.tcard.skin_4 .blue-purple .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(138, 43, 226,.8) 0,#8a2be2 100%);
+    background: -o-linear-gradient(120deg,rgba(138, 43, 226,.8) 0,#8a2be2 100%);
+    background: linear-gradient(-30deg,rgba(138, 43, 226,.8) 0,#8a2be2 100%);
+}
+
+/********************
+
+   bright-green
+
+*********************/
+
+.tcard .tcard-front.bright-green,
+.tcard .tcard-back.bright-green,
+.tcard.skin_2 .tcard-front.bright-green:before,
+.tcard.skin_2 .tcard-back.bright-green .email, 
+.tcard.skin_2 .tcard-back.bright-green .tcard-button-gallery,
+.tcard.skin_3 .bright-green .tcard-form .tc-form-button,
+.tcard.skin_4 .bright-green .tcard-submit,
+.tcard.skin_6 .tcard-front.bright-green:before,
+.tcard.skin_6 .tcard-front.bright-green .tcard-content-item h2{
+    background-color: #66ff00;
+}
+
+.tcard.skin_1 .tcard-front.bright-green .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.bright-green .tcard-header-title h2 span{
+    color: #66ff00;
+}
+
+.tcard.skin_1 .tcard-back.bright-green:before,
+.tcard.skin_2 .tcard-back.bright-green .tcard-header:before {
+    background-color: rgba(102, 255, 0, 0.8); 
+}
+
+.tcard.skin_2 .bright-green #svg circle {
+    stroke: #66ff00;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.bright-green:before,
+.tcard.skin_2.frosted-glass .tcard-back.bright-green .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.bright-green:before, 
+.tcard.skin_3.frosted-glass .tcard-front.bright-green:before,
+.tcard.skin_4.frosted-glass .bright-green .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(102, 255, 0,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(102, 255, 0,0.5);
+}
+
+.tcard.skin_2.frosted-glass .bright-green .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .bright-green .email{
+    background-color: rgba(102, 255, 0, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.bright-green:before, 
+.tcard.skin_3 .tcard-front.bright-green:before{
+    background: -webkit-linear-gradient(120deg,rgba(102, 255, 0,.6) 0,#66ff00 90%);
+    background: -o-linear-gradient(120deg,rgba(102, 255, 0,.6) 0,#66ff00 90%);
+    background: linear-gradient(-30deg,rgba(102, 255, 0,.6) 0,#66ff00 90%);
+}
+
+.tcard.skin_4 .bright-green .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(102, 255, 0,.8) 0,#66ff00 100%);
+    background: -o-linear-gradient(120deg,rgba(102, 255, 0,.8) 0,#66ff00 100%);
+    background: linear-gradient(-30deg,rgba(102, 255, 0,.8) 0,#66ff00 100%);
+}
+
+
+/********************
+
+   canary-yellow
+
+*********************/
+
+.tcard .tcard-front.canary-yellow,
+.tcard .tcard-back.canary-yellow,
+.tcard.skin_2 .tcard-front.canary-yellow:before,
+.tcard.skin_2 .tcard-back.canary-yellow .email, 
+.tcard.skin_2 .tcard-back.canary-yellow .tcard-button-gallery,
+.tcard.skin_3 .canary-yellow .tcard-form .tc-form-button,
+.tcard.skin_4 .canary-yellow .tcard-submit,
+.tcard.skin_6 .tcard-front.canary-yellow:before,
+.tcard.skin_6 .tcard-front.canary-yellow .tcard-content-item h2{
+    background-color: #ffef00;
+}
+
+.tcard.skin_1 .tcard-front.canary-yellow .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.canary-yellow .tcard-header-title h2 span{
+    color: #ffef00;
+}
+
+.tcard.skin_1 .tcard-back.canary-yellow:before,
+.tcard.skin_2 .tcard-back.canary-yellow .tcard-header:before {
+    background-color: rgba(255, 239, 0, 0.8); 
+}
+
+.tcard.skin_2 .canary-yellow #svg circle {
+    stroke: #ffef00;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.canary-yellow:before,
+.tcard.skin_2.frosted-glass .tcard-back.canary-yellow .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.canary-yellow:before, 
+.tcard.skin_3.frosted-glass .tcard-front.canary-yellow:before,
+.tcard.skin_4.frosted-glass .canary-yellow .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(255, 239, 0,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(255, 239, 0,0.5);
+}
+
+.tcard.skin_2.frosted-glass .canary-yellow .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .canary-yellow .email{
+    background-color: rgba(255, 239, 0, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.canary-yellow:before, 
+.tcard.skin_3 .tcard-front.canary-yellow:before{
+    background: -webkit-linear-gradient(120deg,rgba(255, 239, 0,.6) 0,#ffef00 90%);
+    background: -o-linear-gradient(120deg,rgba(255, 239, 0,.6) 0,#ffef00 90%);
+    background: linear-gradient(-30deg,rgba(255, 239, 0,.6) 0,#ffef00 90%);
+}
+
+.tcard.skin_4 .canary-yellow .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(255, 239, 0,.8) 0,#ffef00 100%);
+    background: -o-linear-gradient(120deg,rgba(255, 239, 0,.8) 0,#ffef00 100%);
+    background: linear-gradient(-30deg,rgba(255, 239, 0,.8) 0,#ffef00 100%);
+}
+
+
+.tcard .canary-yellow,
+.tcard .canary-yellow .tcard-button.social_button .tcard-social-list a,
+.tcard.skin_1 .tcard-back.canary-yellow .skill-title,
+.tcard .canary-yellow .email, 
+.tcard .canary-yellow .tcard-button-gallery,
+.tcard .canary-yellow .tcard-header-title h2,
+.tcard .canary-yellow .info_list .tcard-list li p,
+.tcard .canary-yellow .content-info h3,
+.tcard .canary-yellow .social_list .tcard-list li a,
+.tcard .canary-yellow .tcard-login-title,
+.tcard .canary-yellow .tcard-login a,
+.tcard .canary-yellow .tc-login_display_title.before_log h2,
+.tcard .canary-yellow .tcard-form-item label, 
+.tcard .canary-yellow .tcard-icon,
+.tcard .canary-yellow .tcard-header-info h3,
+.tcard.skin_6 .canary-yellow .tcard-content-item h2,
+.tcard.skin_3 .canary-yellow .tcard-content-item h2,
+.tcard .canary-yellow .tcard-ellipsis_text h3,
+.tcard .canary-yellow .tcard-ellipsis_text h2{
+    color: #323232;
+}
+
+.tcard.skin_5 .canary-yellow .tcard-header-title h2,
+.tcard .canary-yellow .tc-post-date{
+    color: #fff;
+}
+
+.tcard .canary-yellow .tcard-button .tcard-btn-line,
+.tcard .canary-yellow .tcard-button.social_button .tcard-btn-line:nth-child(2):before, 
+.tcard .canary-yellow .tcard-button.social_button .tcard-btn-line:nth-child(3):before,
+.tcard.skin_4 .canary-yellow .tcard-submit,
+.tcard .canary-yellow .tcard-form .tc-form-button{
+    background: #323232 !important;
+}
+
+.tcard .canary-yellow .tcard-progress-bar{
+    background: rgba(50, 50, 50,0.7);
+}
+
+.tcard .canary-yellow .tcard-bar{
+    background: rgba(50, 50, 50,0.9);
+}
+
+.tcard .canary-yellow .content-info,
+.tcard .canary-yellow .tcard-footer h4,
+.tcard.skin_1 .canary-yellow li h4,
+.tcard .canary-yellow .tc_button .tcard-button{
+    color: rgba(50, 50, 50,0.9);
+}
+
+.tcard .canary-yellow .tcard-form-item.remember .tocheck{
+    background: rgba(50, 50, 50,0.1);
+    -webkit-box-shadow: inset 0px 0px 5px 0px rgba(50,50,50,1);
+    box-shadow: inset 0px 0px 5px 0px rgba(50,50,50,1);
+}
+
+.tcard .canary-yellow .tcard-avatar,
+.tcard .canary-yellow .tcard-button-gallery.icon, 
+.tcard .canary-yellow .email.icon,
+.tcard .canary-yellow .tcard-form-item.remember .tocheck:before{
+    border-color: rgba(50, 50, 50,0.7);
+}
+
+.tcard .canary-yellow .tcard-form-item input{
+    border-bottom: 1px solid rgba(50,50,50,.3);
+}
+
+/********************
+
+   carmine
+
+*********************/
+
+.tcard .tcard-front.carmine,
+.tcard .tcard-back.carmine,
+.tcard.skin_2 .tcard-front.carmine:before,
+.tcard.skin_2 .tcard-back.carmine .email, 
+.tcard.skin_2 .tcard-back.carmine .tcard-button-gallery,
+.tcard.skin_3 .carmine .tcard-form .tc-form-button,
+.tcard.skin_4 .carmine .tcard-submit,
+.tcard.skin_6 .tcard-front.carmine:before,
+.tcard.skin_6 .tcard-front.carmine .tcard-content-item h2{
+    background-color: #ff0040;
+}
+
+.tcard.skin_1 .tcard-front.carmine .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.carmine .tcard-header-title h2 span{
+    color: #ff0040;
+}
+
+.tcard.skin_1 .tcard-back.carmine:before,
+.tcard.skin_2 .tcard-back.carmine .tcard-header:before {
+    background-color: rgba(255, 0, 64, 0.8); 
+}
+
+.tcard.skin_2 .carmine #svg circle {
+    stroke: #ff0040;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.carmine:before,
+.tcard.skin_2.frosted-glass .tcard-back.carmine .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.carmine:before, 
+.tcard.skin_3.frosted-glass .tcard-front.carmine:before,
+.tcard.skin_4.frosted-glass .carmine .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(255, 0, 64,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(255, 0, 64,0.5);
+}
+
+.tcard.skin_2.frosted-glass .carmine .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .carmine .email{
+    background-color: rgba(255, 0, 64, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.carmine:before, 
+.tcard.skin_3 .tcard-front.carmine:before{
+    background: -webkit-linear-gradient(120deg,rgba(255, 0, 64,.6) 0,#ff0040 90%);
+    background: -o-linear-gradient(120deg,rgba(255, 0, 64,.6) 0,#ff0040 90%);
+    background: linear-gradient(-30deg,rgba(255, 0, 64,.6) 0,#ff0040 90%);
+}
+
+.tcard.skin_4 .carmine .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(255, 0, 64,.8) 0,#ff0040 100%);
+    background: -o-linear-gradient(120deg,rgba(255, 0, 64,.8) 0,#ff0040 100%);
+    background: linear-gradient(-30deg,rgba(255, 0, 64,.8) 0,#ff0040 100%);
+}
+
+
+/********************
+
+   carolina-blue
+
+*********************/
+
+.tcard .tcard-front.carolina-blue,
+.tcard .tcard-back.carolina-blue,
+.tcard.skin_2 .tcard-front.carolina-blue:before,
+.tcard.skin_2 .tcard-back.carolina-blue .email, 
+.tcard.skin_2 .tcard-back.carolina-blue .tcard-button-gallery,
+.tcard.skin_3 .carolina-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .carolina-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.carolina-blue:before,
+.tcard.skin_6 .tcard-front.carolina-blue .tcard-content-item h2{
+    background-color: #99badd;
+}
+
+.tcard.skin_1 .tcard-front.carolina-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.carolina-blue .tcard-header-title h2 span{
+    color: #99badd;
+}
+
+.tcard.skin_1 .tcard-back.carolina-blue:before,
+.tcard.skin_2 .tcard-back.carolina-blue .tcard-header:before {
+    background-color: rgba(153, 186, 221, 0.8); 
+}
+
+.tcard.skin_2 .carolina-blue #svg circle {
+    stroke: #99badd;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.carolina-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.carolina-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.carolina-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.carolina-blue:before,
+.tcard.skin_4.frosted-glass .carolina-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(153, 186, 221,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(153, 186, 221,0.5);
+}
+
+.tcard.skin_2.frosted-glass .carolina-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .carolina-blue .email{
+    background-color: rgba(153, 186, 221, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.carolina-blue:before, 
+.tcard.skin_3 .tcard-front.carolina-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(153, 186, 221,.6) 0,#99badd 90%);
+    background: -o-linear-gradient(120deg,rgba(153, 186, 221,.6) 0,#99badd 90%);
+    background: linear-gradient(-30deg,rgba(153, 186, 221,.6) 0,#99badd 90%);
+}
+
+.tcard.skin_4 .carolina-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(153, 186, 221,.8) 0,#99badd 100%);
+    background: -o-linear-gradient(120deg,rgba(153, 186, 221,.8) 0,#99badd 100%);
+    background: linear-gradient(-30deg,rgba(153, 186, 221,.8) 0,#99badd 100%);
+}
+
+
+/********************
+
+   cerulean
+
+*********************/
+
+.tcard .tcard-front.cerulean,
+.tcard .tcard-back.cerulean,
+.tcard.skin_2 .tcard-front.cerulean:before,
+.tcard.skin_2 .tcard-back.cerulean .email, 
+.tcard.skin_2 .tcard-back.cerulean .tcard-button-gallery,
+.tcard.skin_3 .cerulean .tcard-form .tc-form-button,
+.tcard.skin_4 .cerulean .tcard-submit,
+.tcard.skin_6 .tcard-front.cerulean:before,
+.tcard.skin_6 .tcard-front.cerulean .tcard-content-item h2{
+    background-color: #007ba7;
+}
+
+.tcard.skin_1 .tcard-front.cerulean .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.cerulean .tcard-header-title h2 span{
+    color: #007ba7;
+}
+
+.tcard.skin_1 .tcard-back.cerulean:before,
+.tcard.skin_2 .tcard-back.cerulean .tcard-header:before {
+    background-color: rgba(0, 123, 167, 0.8); 
+}
+
+.tcard.skin_2 .cerulean #svg circle {
+    stroke: #007ba7;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.cerulean:before,
+.tcard.skin_2.frosted-glass .tcard-back.cerulean .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.cerulean:before, 
+.tcard.skin_3.frosted-glass .tcard-front.cerulean:before,
+.tcard.skin_4.frosted-glass .cerulean .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 123, 167,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 123, 167,0.5);
+}
+
+.tcard.skin_2.frosted-glass .cerulean .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .cerulean .email{
+    background-color: rgba(0, 123, 167, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.cerulean:before, 
+.tcard.skin_3 .tcard-front.cerulean:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 123, 167,.6) 0,#007ba7 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 123, 167,.6) 0,#007ba7 90%);
+    background: linear-gradient(-30deg,rgba(0, 123, 167,.6) 0,#007ba7 90%);
+}
+
+.tcard.skin_4 .cerulean .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 123, 167,.8) 0,#007ba7 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 123, 167,.8) 0,#007ba7 100%);
+    background: linear-gradient(-30deg,rgba(0, 123, 167,.8) 0,#007ba7 100%);
+}
+
+
+/********************
+
+   cerulean-blue
+
+*********************/
+
+.tcard .tcard-front.cerulean-blue,
+.tcard .tcard-back.cerulean-blue,
+.tcard.skin_2 .tcard-front.cerulean-blue:before,
+.tcard.skin_2 .tcard-back.cerulean-blue .email, 
+.tcard.skin_2 .tcard-back.cerulean-blue .tcard-button-gallery,
+.tcard.skin_3 .cerulean-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .cerulean-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.cerulean-blue:before,
+.tcard.skin_6 .tcard-front.cerulean-blue .tcard-content-item h2{
+    background-color: #2a52be;
+}
+
+.tcard.skin_1 .tcard-front.cerulean-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.cerulean-blue .tcard-header-title h2 span{
+    color: #2a52be;
+}
+
+.tcard.skin_1 .tcard-back.cerulean-blue:before,
+.tcard.skin_2 .tcard-back.cerulean-blue .tcard-header:before {
+    background-color: rgba(42, 82, 190, 0.8); 
+}
+
+.tcard.skin_2 .cerulean-blue #svg circle {
+    stroke: #2a52be;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.cerulean-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.cerulean-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.cerulean-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.cerulean-blue:before,
+.tcard.skin_4.frosted-glass .cerulean-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(42, 82, 190,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(42, 82, 190,0.5);
+}
+
+.tcard.skin_2.frosted-glass .cerulean-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .cerulean-blue .email{
+    background-color: rgba(42, 82, 190, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.cerulean-blue:before, 
+.tcard.skin_3 .tcard-front.cerulean-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(42, 82, 190,.6) 0,#2a52be 90%);
+    background: -o-linear-gradient(120deg,rgba(42, 82, 190,.6) 0,#2a52be 90%);
+    background: linear-gradient(-30deg,rgba(42, 82, 190,.6) 0,#2a52be 90%);
+}
+
+.tcard.skin_4 .cerulean-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(42, 82, 190,.8) 0,#2a52be 100%);
+    background: -o-linear-gradient(120deg,rgba(42, 82, 190,.8) 0,#2a52be 100%);
+    background: linear-gradient(-30deg,rgba(42, 82, 190,.8) 0,#2a52be 100%);
+}
+
+
+/********************
+
+   chrome-yellow
+
+*********************/
+
+.tcard .tcard-front.chrome-yellow,
+.tcard .tcard-back.chrome-yellow,
+.tcard.skin_2 .tcard-front.chrome-yellow:before,
+.tcard.skin_2 .tcard-back.chrome-yellow .email, 
+.tcard.skin_2 .tcard-back.chrome-yellow .tcard-button-gallery,
+.tcard.skin_3 .chrome-yellow .tcard-form .tc-form-button,
+.tcard.skin_4 .chrome-yellow .tcard-submit,
+.tcard.skin_6 .tcard-front.chrome-yellow:before,
+.tcard.skin_6 .tcard-front.chrome-yellow .tcard-content-item h2{
+    background-color: #ffa700;
+}
+
+.tcard.skin_1 .tcard-front.chrome-yellow .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.chrome-yellow .tcard-header-title h2 span{
+    color: #ffa700;
+}
+
+.tcard.skin_1 .tcard-back.chrome-yellow:before,
+.tcard.skin_2 .tcard-back.chrome-yellow .tcard-header:before {
+    background-color: rgba(255, 167, 0, 0.8); 
+}
+
+.tcard.skin_2 .chrome-yellow #svg circle {
+    stroke: #ffa700;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.chrome-yellow:before,
+.tcard.skin_2.frosted-glass .tcard-back.chrome-yellow .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.chrome-yellow:before, 
+.tcard.skin_3.frosted-glass .tcard-front.chrome-yellow:before,
+.tcard.skin_4.frosted-glass .chrome-yellow .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(255, 167, 0,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(255, 167, 0,0.5);
+}
+
+.tcard.skin_2.frosted-glass .chrome-yellow .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .chrome-yellow .email{
+    background-color: rgba(255, 167, 0, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.chrome-yellow:before, 
+.tcard.skin_3 .tcard-front.chrome-yellow:before{
+    background: -webkit-linear-gradient(120deg,rgba(255, 167, 0,.6) 0,#ffa700 90%);
+    background: -o-linear-gradient(120deg,rgba(255, 167, 0,.6) 0,#ffa700 90%);
+    background: linear-gradient(-30deg,rgba(255, 167, 0,.6) 0,#ffa700 90%);
+}
+
+.tcard.skin_4 .chrome-yellow .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(255, 167, 0,.8) 0,#ffa700 100%);
+    background: -o-linear-gradient(120deg,rgba(255, 167, 0,.8) 0,#ffa700 100%);
+    background: linear-gradient(-30deg,rgba(255, 167, 0,.8) 0,#ffa700 100%);
+}
+
+
+/********************
+
+   cinnabar
+
+*********************/
+
+.tcard .tcard-front.cinnabar,
+.tcard .tcard-back.cinnabar,
+.tcard.skin_2 .tcard-front.cinnabar:before,
+.tcard.skin_2 .tcard-back.cinnabar .email, 
+.tcard.skin_2 .tcard-back.cinnabar .tcard-button-gallery,
+.tcard.skin_3 .cinnabar .tcard-form .tc-form-button,
+.tcard.skin_4 .cinnabar .tcard-submit,
+.tcard.skin_6 .tcard-front.cinnabar:before,
+.tcard.skin_6 .tcard-front.cinnabar .tcard-content-item h2{
+    background-color: #e34234;
+}
+
+.tcard.skin_1 .tcard-front.cinnabar .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.cinnabar .tcard-header-title h2 span{
+    color: #e34234;
+}
+
+.tcard.skin_1 .tcard-back.cinnabar:before,
+.tcard.skin_2 .tcard-back.cinnabar .tcard-header:before {
+    background-color: rgba(227, 66, 52, 0.8); 
+}
+
+.tcard.skin_2 .cinnabar #svg circle {
+    stroke: #e34234;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.cinnabar:before,
+.tcard.skin_2.frosted-glass .tcard-back.cinnabar .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.cinnabar:before, 
+.tcard.skin_3.frosted-glass .tcard-front.cinnabar:before,
+.tcard.skin_4.frosted-glass .cinnabar .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(227, 66, 52,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(227, 66, 52,0.5);
+}
+
+.tcard.skin_2.frosted-glass .cinnabar .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .cinnabar .email{
+    background-color: rgba(227, 66, 52, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.cinnabar:before, 
+.tcard.skin_3 .tcard-front.cinnabar:before{
+    background: -webkit-linear-gradient(120deg,rgba(227, 66, 52,.6) 0,#e34234 90%);
+    background: -o-linear-gradient(120deg,rgba(227, 66, 52,.6) 0,#e34234 90%);
+    background: linear-gradient(-30deg,rgba(227, 66, 52,.6) 0,#e34234 90%);
+}
+
+.tcard.skin_4 .cinnabar .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(227, 66, 52,.8) 0,#e34234 100%);
+    background: -o-linear-gradient(120deg,rgba(227, 66, 52,.8) 0,#e34234 100%);
+    background: linear-gradient(-30deg,rgba(227, 66, 52,.8) 0,#e34234 100%);
+}
+
+
+/********************
+
+   cool-black
+
+*********************/
+
+.tcard .tcard-front.cool-black,
+.tcard .tcard-back.cool-black,
+.tcard.skin_2 .tcard-front.cool-black:before,
+.tcard.skin_2 .tcard-back.cool-black .email, 
+.tcard.skin_2 .tcard-back.cool-black .tcard-button-gallery,
+.tcard.skin_3 .cool-black .tcard-form .tc-form-button,
+.tcard.skin_4 .cool-black .tcard-submit,
+.tcard.skin_6 .tcard-front.cool-black:before,
+.tcard.skin_6 .tcard-front.cool-black .tcard-content-item h2{
+    background-color: #002e63;
+}
+
+.tcard.skin_1 .tcard-front.cool-black .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.cool-black .tcard-header-title h2 span{
+    color: #002e63;
+}
+
+.tcard.skin_1 .tcard-back.cool-black:before,
+.tcard.skin_2 .tcard-back.cool-black .tcard-header:before {
+    background-color: rgba(0, 46, 99, 0.8); 
+}
+
+.tcard.skin_2 .cool-black #svg circle {
+    stroke: #002e63;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.cool-black:before,
+.tcard.skin_2.frosted-glass .tcard-back.cool-black .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.cool-black:before, 
+.tcard.skin_3.frosted-glass .tcard-front.cool-black:before,
+.tcard.skin_4.frosted-glass .cool-black .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 46, 99,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 46, 99,0.5);
+}
+
+.tcard.skin_2.frosted-glass .cool-black .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .cool-black .email{
+    background-color: rgba(0, 46, 99, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.cool-black:before, 
+.tcard.skin_3 .tcard-front.cool-black:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 46, 99,.6) 0,#002e63 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 46, 99,.6) 0,#002e63 90%);
+    background: linear-gradient(-30deg,rgba(0, 46, 99,.6) 0,#002e63 90%);
+}
+
+.tcard.skin_4 .cool-black .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 46, 99,.8) 0,#002e63 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 46, 99,.8) 0,#002e63 100%);
+    background: linear-gradient(-30deg,rgba(0, 46, 99,.8) 0,#002e63 100%);
+}
+
+/********************
+
+   cornflower-blue
+
+*********************/
+
+.tcard .tcard-front.cornflower-blue,
+.tcard .tcard-back.cornflower-blue,
+.tcard.skin_2 .tcard-front.cornflower-blue:before,
+.tcard.skin_2 .tcard-back.cornflower-blue .email, 
+.tcard.skin_2 .tcard-back.cornflower-blue .tcard-button-gallery,
+.tcard.skin_3 .cornflower-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .cornflower-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.cornflower-blue:before,
+.tcard.skin_6 .tcard-front.cornflower-blue .tcard-content-item h2{
+    background-color: #4FACFF;
+}
+
+.tcard.skin_1 .tcard-front.cornflower-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.cornflower-blue .tcard-header-title h2 span{
+    color: #4FACFF;
+}
+
+.tcard.skin_1 .tcard-back.cornflower-blue:before,
+.tcard.skin_2 .tcard-back.cornflower-blue .tcard-header:before {
+    background-color: rgba(79, 172, 255, 0.8); 
+}
+
+.tcard.skin_2 .cornflower-blue #svg circle {
+    stroke: #4FACFF;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.cornflower-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.cornflower-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.cornflower-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.cornflower-blue:before,
+.tcard.skin_4.frosted-glass .cornflower-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(79, 172, 255,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(79, 172, 255,0.5);
+}
+
+.tcard.skin_2.frosted-glass .cornflower-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .cornflower-blue .email{
+    background-color: rgba(79, 172, 255, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.cornflower-blue:before, 
+.tcard.skin_3 .tcard-front.cornflower-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(79, 172, 255,.6) 0,#4FACFF 90%);
+    background: -o-linear-gradient(120deg,rgba(79, 172, 255,.6) 0,#4FACFF 90%);
+    background: linear-gradient(-30deg,rgba(79, 172, 255,.6) 0,#4FACFF 90%);
+}
+
+.tcard.skin_4 .cornflower-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(79, 172, 255,.8) 0,#4FACFF 100%);
+    background: -o-linear-gradient(120deg,rgba(79, 172, 255,.8) 0,#4FACFF 100%);
+    background: linear-gradient(-30deg,rgba(79, 172, 255,.8) 0,#4FACFF 100%);
+}
+
+
+/********************
+
+   dark-slate-gray
+
+*********************/
+
+.tcard .tcard-front.dark-slate-gray,
+.tcard .tcard-back.dark-slate-gray,
+.tcard.skin_2 .tcard-front.dark-slate-gray:before,
+.tcard.skin_2 .tcard-back.dark-slate-gray .email, 
+.tcard.skin_2 .tcard-back.dark-slate-gray .tcard-button-gallery,
+.tcard.skin_3 .dark-slate-gray .tcard-form .tc-form-button,
+.tcard.skin_4 .dark-slate-gray .tcard-submit,
+.tcard.skin_6 .tcard-front.dark-slate-gray:before,
+.tcard.skin_6 .tcard-front.dark-slate-gray .tcard-content-item h2{
+    background-color: #2F4F4F;
+}
+
+.tcard.skin_1 .tcard-front.dark-slate-gray .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.dark-slate-gray .tcard-header-title h2 span{
+    color: #2F4F4F;
+}
+
+.tcard.skin_1 .tcard-back.dark-slate-gray:before,
+.tcard.skin_2 .tcard-back.dark-slate-gray .tcard-header:before {
+    background-color: rgba(79, 172, 255, 0.8); 
+}
+
+.tcard.skin_2 .dark-slate-gray #svg circle {
+    stroke: #2F4F4F;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.dark-slate-gray:before,
+.tcard.skin_2.frosted-glass .tcard-back.dark-slate-gray .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.dark-slate-gray:before, 
+.tcard.skin_3.frosted-glass .tcard-front.dark-slate-gray:before,
+.tcard.skin_4.frosted-glass .dark-slate-gray .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(79, 172, 255,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(79, 172, 255,0.5);
+}
+
+.tcard.skin_2.frosted-glass .dark-slate-gray .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .dark-slate-gray .email{
+    background-color: rgba(79, 172, 255, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.dark-slate-gray:before, 
+.tcard.skin_3 .tcard-front.dark-slate-gray:before{
+    background: -webkit-linear-gradient(120deg,rgba(79, 172, 255,.6) 0,#2F4F4F 90%);
+    background: -o-linear-gradient(120deg,rgba(79, 172, 255,.6) 0,#2F4F4F 90%);
+    background: linear-gradient(-30deg,rgba(79, 172, 255,.6) 0,#2F4F4F 90%);
+}
+
+.tcard.skin_4 .dark-slate-gray .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(79, 172, 255,.8) 0,#2F4F4F 100%);
+    background: -o-linear-gradient(120deg,rgba(79, 172, 255,.8) 0,#2F4F4F 100%);
+    background: linear-gradient(-30deg,rgba(79, 172, 255,.8) 0,#2F4F4F 100%);
+}
+
+
+/********************
+
+   dark-gray
+
+*********************/
+
+.tcard .tcard-front.dark-gray,
+.tcard .tcard-back.dark-gray,
+.tcard.skin_2 .tcard-front.dark-gray:before,
+.tcard.skin_2 .tcard-back.dark-gray .email, 
+.tcard.skin_2 .tcard-back.dark-gray .tcard-button-gallery,
+.tcard.skin_3 .dark-gray .tcard-form .tc-form-button,
+.tcard.skin_4 .dark-gray .tcard-submit,
+.tcard.skin_6 .tcard-front.dark-gray:before,
+.tcard.skin_6 .tcard-front.dark-gray .tcard-content-item h2{
+    background-color: #111111;
+}
+
+.tcard.skin_1 .tcard-front.dark-gray .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.dark-gray .tcard-header-title h2 span{
+    color: #111111;
+}
+
+.tcard.skin_1 .tcard-back.dark-gray:before,
+.tcard.skin_2 .tcard-back.dark-gray .tcard-header:before {
+    background-color: rgba(17, 17, 17, 0.8); 
+}
+
+.tcard.skin_2 .dark-gray #svg circle {
+    stroke: #111111;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.dark-gray:before,
+.tcard.skin_2.frosted-glass .tcard-back.dark-gray .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.dark-gray:before, 
+.tcard.skin_3.frosted-glass .tcard-front.dark-gray:before,
+.tcard.skin_4.frosted-glass .dark-gray .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(17, 17, 17,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(17, 17, 17,0.5);
+}
+
+.tcard.skin_2.frosted-glass .dark-gray .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .dark-gray .email{
+    background-color: rgba(17, 17, 17, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.dark-gray:before, 
+.tcard.skin_3 .tcard-front.dark-gray:before{
+    background: -webkit-linear-gradient(120deg,rgba(17, 17, 17,.6) 0,#111111 90%);
+    background: -o-linear-gradient(120deg,rgba(17, 17, 17,.6) 0,#111111 90%);
+    background: linear-gradient(-30deg,rgba(17, 17, 17,.6) 0,#111111 90%);
+}
+
+.tcard.skin_4 .dark-gray .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(17, 17, 17,.8) 0,#111111 100%);
+    background: -o-linear-gradient(120deg,rgba(17, 17, 17,.8) 0,#111111 100%);
+    background: linear-gradient(-30deg,rgba(17, 17, 17,.8) 0,#111111 100%);
+}
+
+
+/********************
+
+   davy-grey
+
+*********************/
+
+.tcard .tcard-front.davy-grey,
+.tcard .tcard-back.davy-grey,
+.tcard.skin_2 .tcard-front.davy-grey:before,
+.tcard.skin_2 .tcard-back.davy-grey .email, 
+.tcard.skin_2 .tcard-back.davy-grey .tcard-button-gallery,
+.tcard.skin_3 .davy-grey .tcard-form .tc-form-button,
+.tcard.skin_4 .davy-grey .tcard-submit,
+.tcard.skin_6 .tcard-front.davy-grey:before,
+.tcard.skin_6 .tcard-front.davy-grey .tcard-content-item h2{
+    background-color: #555555;
+}
+
+.tcard.skin_1 .tcard-front.davy-grey .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.davy-grey .tcard-header-title h2 span{
+    color: #555555;
+}
+
+.tcard.skin_1 .tcard-back.davy-grey:before,
+.tcard.skin_2 .tcard-back.davy-grey .tcard-header:before {
+    background-color: rgba(85, 85, 85, 0.8); 
+}
+
+.tcard.skin_2 .davy-grey #svg circle {
+    stroke: #555555;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.davy-grey:before,
+.tcard.skin_2.frosted-glass .tcard-back.davy-grey .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.davy-grey:before, 
+.tcard.skin_3.frosted-glass .tcard-front.davy-grey:before,
+.tcard.skin_4.frosted-glass .davy-grey .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(85, 85, 85,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(85, 85, 85,0.5);
+}
+
+.tcard.skin_2.frosted-glass .davy-grey .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .davy-grey .email{
+    background-color: rgba(85, 85, 85, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.davy-grey:before, 
+.tcard.skin_3 .tcard-front.davy-grey:before{
+    background: -webkit-linear-gradient(120deg,rgba(85, 85, 85,.6) 0,#555555 90%);
+    background: -o-linear-gradient(120deg,rgba(85, 85, 85,.6) 0,#555555 90%);
+    background: linear-gradient(-30deg,rgba(85, 85, 85,.6) 0,#555555 90%);
+}
+
+.tcard.skin_4 .davy-grey .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(85, 85, 85,.8) 0,#555555 100%);
+    background: -o-linear-gradient(120deg,rgba(85, 85, 85,.8) 0,#555555 100%);
+    background: linear-gradient(-30deg,rgba(85, 85, 85,.8) 0,#555555 100%);
+}
+
+
+/********************
+
+   debian-red
+
+*********************/
+
+.tcard .tcard-front.debian-red,
+.tcard .tcard-back.debian-red,
+.tcard.skin_2 .tcard-front.debian-red:before,
+.tcard.skin_2 .tcard-back.debian-red .email, 
+.tcard.skin_2 .tcard-back.debian-red .tcard-button-gallery,
+.tcard.skin_3 .debian-red .tcard-form .tc-form-button,
+.tcard.skin_4 .debian-red .tcard-submit,
+.tcard.skin_6 .tcard-front.debian-red:before,
+.tcard.skin_6 .tcard-front.debian-red .tcard-content-item h2{
+    background-color: #d70a53;
+}
+
+.tcard.skin_1 .tcard-front.debian-red .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.debian-red .tcard-header-title h2 span{
+    color: #d70a53;
+}
+
+.tcard.skin_1 .tcard-back.debian-red:before,
+.tcard.skin_2 .tcard-back.debian-red .tcard-header:before {
+    background-color: rgba(215, 10, 83, 0.8); 
+}
+
+.tcard.skin_2 .debian-red #svg circle {
+    stroke: #d70a53;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.debian-red:before,
+.tcard.skin_2.frosted-glass .tcard-back.debian-red .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.debian-red:before, 
+.tcard.skin_3.frosted-glass .tcard-front.debian-red:before,
+.tcard.skin_4.frosted-glass .debian-red .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(215, 10, 83,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(215, 10, 83,0.5);
+}
+
+.tcard.skin_2.frosted-glass .debian-red .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .debian-red .email{
+    background-color: rgba(215, 10, 83, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.debian-red:before, 
+.tcard.skin_3 .tcard-front.debian-red:before{
+    background: -webkit-linear-gradient(120deg,rgba(215, 10, 83,.6) 0,#d70a53 90%);
+    background: -o-linear-gradient(120deg,rgba(215, 10, 83,.6) 0,#d70a53 90%);
+    background: linear-gradient(-30deg,rgba(215, 10, 83,.6) 0,#d70a53 90%);
+}
+
+.tcard.skin_4 .debian-red .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(215, 10, 83,.8) 0,#d70a53 100%);
+    background: -o-linear-gradient(120deg,rgba(215, 10, 83,.8) 0,#d70a53 100%);
+    background: linear-gradient(-30deg,rgba(215, 10, 83,.8) 0,#d70a53 100%);
+}
+
+
+/********************
+
+   deep-magenta
+
+*********************/
+
+.tcard .tcard-front.deep-magenta,
+.tcard .tcard-back.deep-magenta,
+.tcard.skin_2 .tcard-front.deep-magenta:before,
+.tcard.skin_2 .tcard-back.deep-magenta .email, 
+.tcard.skin_2 .tcard-back.deep-magenta .tcard-button-gallery,
+.tcard.skin_3 .deep-magenta .tcard-form .tc-form-button,
+.tcard.skin_4 .deep-magenta .tcard-submit,
+.tcard.skin_6 .tcard-front.deep-magenta:before,
+.tcard.skin_6 .tcard-front.deep-magenta .tcard-content-item h2{
+    background-color: #cc00cc;
+}
+
+.tcard.skin_1 .tcard-front.deep-magenta .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.deep-magenta .tcard-header-title h2 span{
+    color: #cc00cc;
+}
+
+.tcard.skin_1 .tcard-back.deep-magenta:before,
+.tcard.skin_2 .tcard-back.deep-magenta .tcard-header:before {
+    background-color: rgba(204, 0, 204, 0.8); 
+}
+
+.tcard.skin_2 .deep-magenta #svg circle {
+    stroke: #cc00cc;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.deep-magenta:before,
+.tcard.skin_2.frosted-glass .tcard-back.deep-magenta .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.deep-magenta:before, 
+.tcard.skin_3.frosted-glass .tcard-front.deep-magenta:before,
+.tcard.skin_4.frosted-glass .deep-magenta .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(204, 0, 204,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(204, 0, 204,0.5);
+}
+
+.tcard.skin_2.frosted-glass .deep-magenta .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .deep-magenta .email{
+    background-color: rgba(204, 0, 204, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.deep-magenta:before, 
+.tcard.skin_3 .tcard-front.deep-magenta:before{
+    background: -webkit-linear-gradient(120deg,rgba(204, 0, 204,.6) 0,#cc00cc 90%);
+    background: -o-linear-gradient(120deg,rgba(204, 0, 204,.6) 0,#cc00cc 90%);
+    background: linear-gradient(-30deg,rgba(204, 0, 204,.6) 0,#cc00cc 90%);
+}
+
+.tcard.skin_4 .deep-magenta .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(204, 0, 204,.8) 0,#cc00cc 100%);
+    background: -o-linear-gradient(120deg,rgba(204, 0, 204,.8) 0,#cc00cc 100%);
+    background: linear-gradient(-30deg,rgba(204, 0, 204,.8) 0,#cc00cc 100%);
+}
+
+
+/********************
+
+   deep-pink
+
+*********************/
+
+.tcard .tcard-front.deep-pink,
+.tcard .tcard-back.deep-pink,
+.tcard.skin_2 .tcard-front.deep-pink:before,
+.tcard.skin_2 .tcard-back.deep-pink .email, 
+.tcard.skin_2 .tcard-back.deep-pink .tcard-button-gallery,
+.tcard.skin_3 .deep-pink .tcard-form .tc-form-button,
+.tcard.skin_4 .deep-pink .tcard-submit,
+.tcard.skin_6 .tcard-front.deep-pink:before,
+.tcard.skin_6 .tcard-front.deep-pink .tcard-content-item h2{
+    background-color: #ff1493;
+}
+
+.tcard.skin_1 .tcard-front.deep-pink .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.deep-pink .tcard-header-title h2 span{
+    color: #ff1493;
+}
+
+.tcard.skin_1 .tcard-back.deep-pink:before,
+.tcard.skin_2 .tcard-back.deep-pink .tcard-header:before {
+    background-color: rgba(255, 20, 147, 0.8); 
+}
+
+.tcard.skin_2 .deep-pink #svg circle {
+    stroke: #ff1493;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.deep-pink:before,
+.tcard.skin_2.frosted-glass .tcard-back.deep-pink .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.deep-pink:before, 
+.tcard.skin_3.frosted-glass .tcard-front.deep-pink:before,
+.tcard.skin_4.frosted-glass .deep-pink .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(255, 20, 147,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(255, 20, 147,0.5);
+}
+
+.tcard.skin_2.frosted-glass .deep-pink .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .deep-pink .email{
+    background-color: rgba(255, 20, 147, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.deep-pink:before, 
+.tcard.skin_3 .tcard-front.deep-pink:before{
+    background: -webkit-linear-gradient(120deg,rgba(255, 20, 147,.6) 0,#ff1493 90%);
+    background: -o-linear-gradient(120deg,rgba(255, 20, 147,.6) 0,#ff1493 90%);
+    background: linear-gradient(-30deg,rgba(255, 20, 147,.6) 0,#ff1493 90%);
+}
+
+.tcard.skin_4 .deep-pink .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(255, 20, 147,.8) 0,#ff1493 100%);
+    background: -o-linear-gradient(120deg,rgba(255, 20, 147,.8) 0,#ff1493 100%);
+    background: linear-gradient(-30deg,rgba(255, 20, 147,.8) 0,#ff1493 100%);
+}
+
+
+/********************
+
+   egyptian-blue
+
+*********************/
+
+.tcard .tcard-front.egyptian-blue,
+.tcard .tcard-back.egyptian-blue,
+.tcard.skin_2 .tcard-front.egyptian-blue:before,
+.tcard.skin_2 .tcard-back.egyptian-blue .email, 
+.tcard.skin_2 .tcard-back.egyptian-blue .tcard-button-gallery,
+.tcard.skin_3 .egyptian-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .egyptian-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.egyptian-blue:before,
+.tcard.skin_6 .tcard-front.egyptian-blue .tcard-content-item h2{
+    background-color: #1034a6;
+}
+
+.tcard.skin_1 .tcard-front.egyptian-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.egyptian-blue .tcard-header-title h2 span{
+    color: #1034a6;
+}
+
+.tcard.skin_1 .tcard-back.egyptian-blue:before,
+.tcard.skin_2 .tcard-back.egyptian-blue .tcard-header:before {
+    background-color: rgba(16, 52, 166, 0.8); 
+}
+
+.tcard.skin_2 .egyptian-blue #svg circle {
+    stroke: #1034a6;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.egyptian-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.egyptian-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.egyptian-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.egyptian-blue:before,
+.tcard.skin_4.frosted-glass .egyptian-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(16, 52, 166,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(16, 52, 166,0.5);
+}
+
+.tcard.skin_2.frosted-glass .egyptian-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .egyptian-blue .email{
+    background-color: rgba(16, 52, 166, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.egyptian-blue:before, 
+.tcard.skin_3 .tcard-front.egyptian-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(16, 52, 166,.6) 0,#1034a6 90%);
+    background: -o-linear-gradient(120deg,rgba(16, 52, 166,.6) 0,#1034a6 90%);
+    background: linear-gradient(-30deg,rgba(16, 52, 166,.6) 0,#1034a6 90%);
+}
+
+.tcard.skin_4 .egyptian-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(16, 52, 166,.8) 0,#1034a6 100%);
+    background: -o-linear-gradient(120deg,rgba(16, 52, 166,.8) 0,#1034a6 100%);
+    background: linear-gradient(-30deg,rgba(16, 52, 166,.8) 0,#1034a6 100%);
+}
+
+
+/********************
+
+   electric-yellow
+
+*********************/
+
+.tcard .tcard-front.electric-yellow,
+.tcard .tcard-back.electric-yellow,
+.tcard.skin_2 .tcard-front.electric-yellow:before,
+.tcard.skin_2 .tcard-back.electric-yellow .email, 
+.tcard.skin_2 .tcard-back.electric-yellow .tcard-button-gallery,
+.tcard.skin_3 .electric-yellow .tcard-form .tc-form-button,
+.tcard.skin_4 .electric-yellow .tcard-submit,
+.tcard.skin_6 .tcard-front.electric-yellow:before,
+.tcard.skin_6 .tcard-front.electric-yellow .tcard-content-item h2{
+    background-color: #ffff00;
+}
+
+.tcard.skin_1 .tcard-front.electric-yellow .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.electric-yellow .tcard-header-title h2 span{
+    color: #ffff00;
+}
+
+.tcard.skin_1 .tcard-back.electric-yellow:before,
+.tcard.skin_2 .tcard-back.electric-yellow .tcard-header:before {
+    background-color: rgba(255, 255, 0, 0.8); 
+}
+
+.tcard.skin_2 .electric-yellow #svg circle {
+    stroke: #ffff00;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.electric-yellow:before,
+.tcard.skin_2.frosted-glass .tcard-back.electric-yellow .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.electric-yellow:before, 
+.tcard.skin_3.frosted-glass .tcard-front.electric-yellow:before,
+.tcard.skin_4.frosted-glass .electric-yellow .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(255, 255, 0,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(255, 255, 0,0.5);
+}
+
+.tcard.skin_2.frosted-glass .electric-yellow .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .electric-yellow .email{
+    background-color: rgba(255, 255, 0, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.electric-yellow:before, 
+.tcard.skin_3 .tcard-front.electric-yellow:before{
+    background: -webkit-linear-gradient(120deg,rgba(255, 255, 0,.6) 0,#ffff00 90%);
+    background: -o-linear-gradient(120deg,rgba(255, 255, 0,.6) 0,#ffff00 90%);
+    background: linear-gradient(-30deg,rgba(255, 255, 0,.6) 0,#ffff00 90%);
+}
+
+.tcard.skin_4 .electric-yellow .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(255, 255, 0,.8) 0,#ffff00 100%);
+    background: -o-linear-gradient(120deg,rgba(255, 255, 0,.8) 0,#ffff00 100%);
+    background: linear-gradient(-30deg,rgba(255, 255, 0,.8) 0,#ffff00 100%);
+}
+
+.tcard .electric-yellow,
+.tcard .electric-yellow .tcard-button.social_button .tcard-social-list a,
+.tcard.skin_1 .tcard-back.electric-yellow .skill-title,
+.tcard .electric-yellow .email, 
+.tcard .electric-yellow .tcard-button-gallery,
+.tcard .electric-yellow .tcard-header-title h2,
+.tcard .electric-yellow .info_list .tcard-list li p,
+.tcard .electric-yellow .content-info h3,
+.tcard .electric-yellow .social_list .tcard-list li a,
+.tcard .electric-yellow .tcard-login-title,
+.tcard .electric-yellow .tcard-login a,
+.tcard .electric-yellow .tc-login_display_title.before_log h2,
+.tcard .electric-yellow .tcard-form-item label, 
+.tcard .electric-yellow .tcard-icon,
+.tcard .electric-yellow .tcard-header-info h3,
+.tcard.skin_6 .electric-yellow .tcard-content-item h2,
+.tcard.skin_3 .electric-yellow .tcard-content-item h2,
+.tcard .electric-yellow .tcard-ellipsis_text h3,
+.tcard .electric-yellow .tcard-ellipsis_text h2{
+    color: #323232;
+}
+
+.tcard.skin_5 .electric-yellow .tcard-header-title h2,
+.tcard .electric-yellow .tc-post-date{
+    color: #fff;
+}
+
+.tcard .electric-yellow .tcard-button .tcard-btn-line,
+.tcard .electric-yellow .tcard-button.social_button .tcard-btn-line:nth-child(2):before, 
+.tcard .electric-yellow .tcard-button.social_button .tcard-btn-line:nth-child(3):before,
+.tcard.skin_4 .electric-yellow .tcard-submit,
+.tcard .electric-yellow .tcard-form .tc-form-button{
+    background: #323232 !important;
+}
+
+.tcard .electric-yellow .tcard-progress-bar{
+    background: rgba(50, 50, 50,0.7);
+}
+
+.tcard .electric-yellow .tcard-bar{
+    background: rgba(50, 50, 50,0.9);
+}
+
+.tcard .electric-yellow .content-info,
+.tcard .electric-yellow .tcard-footer h4,
+.tcard.skin_1 .electric-yellow li h4,
+.tcard .electric-yellow .tc_button .tcard-button{
+    color: rgba(50, 50, 50,0.9);
+}
+
+.tcard .electric-yellow .tcard-form-item.remember .tocheck{
+    background: rgba(50, 50, 50,0.1);
+    -webkit-box-shadow: inset 0px 0px 5px 0px rgba(50,50,50,1);
+    box-shadow: inset 0px 0px 5px 0px rgba(50,50,50,1);
+}
+
+.tcard .electric-yellow .tcard-avatar,
+.tcard .electric-yellow .tcard-button-gallery.icon, 
+.tcard .electric-yellow .email.icon,
+.tcard .electric-yellow .tcard-form-item.remember .tocheck:before{
+    border-color: rgba(50, 50, 50,0.7);
+}
+
+.tcard .electric-yellow .tcard-form-item input{
+    border-bottom: 1px solid rgba(50,50,50,.3);
+}
+
+/********************
+
+   electric-violet
+
+*********************/
+
+.tcard .tcard-front.electric-violet,
+.tcard .tcard-back.electric-violet,
+.tcard.skin_2 .tcard-front.electric-violet:before,
+.tcard.skin_2 .tcard-back.electric-violet .email, 
+.tcard.skin_2 .tcard-back.electric-violet .tcard-button-gallery,
+.tcard.skin_3 .electric-violet .tcard-form .tc-form-button,
+.tcard.skin_4 .electric-violet .tcard-submit,
+.tcard.skin_6 .tcard-front.electric-violet:before,
+.tcard.skin_6 .tcard-front.electric-violet .tcard-content-item h2{
+    background-color: #8f00ff;
+}
+
+.tcard.skin_1 .tcard-front.electric-violet .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.electric-violet .tcard-header-title h2 span{
+    color: #8f00ff;
+}
+
+.tcard.skin_1 .tcard-back.electric-violet:before,
+.tcard.skin_2 .tcard-back.electric-violet .tcard-header:before {
+    background-color: rgba(143, 0, 255, 0.8); 
+}
+
+.tcard.skin_2 .electric-violet #svg circle {
+    stroke: #8f00ff;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.electric-violet:before,
+.tcard.skin_2.frosted-glass .tcard-back.electric-violet .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.electric-violet:before, 
+.tcard.skin_3.frosted-glass .tcard-front.electric-violet:before,
+.tcard.skin_4.frosted-glass .electric-violet .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(143, 0, 255,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(143, 0, 255,0.5);
+}
+
+.tcard.skin_2.frosted-glass .electric-violet .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .electric-violet .email{
+    background-color: rgba(143, 0, 255, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.electric-violet:before, 
+.tcard.skin_3 .tcard-front.electric-violet:before{
+    background: -webkit-linear-gradient(120deg,rgba(143, 0, 255,.6) 0,#8f00ff 90%);
+    background: -o-linear-gradient(120deg,rgba(143, 0, 255,.6) 0,#8f00ff 90%);
+    background: linear-gradient(-30deg,rgba(143, 0, 255,.6) 0,#8f00ff 90%);
+}
+
+.tcard.skin_4 .electric-violet .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(143, 0, 255,.8) 0,#8f00ff 100%);
+    background: -o-linear-gradient(120deg,rgba(143, 0, 255,.8) 0,#8f00ff 100%);
+    background: linear-gradient(-30deg,rgba(143, 0, 255,.8) 0,#8f00ff 100%);
+}
+
+
+/********************
+
+   jungle-green
+
+*********************/
+
+.tcard .tcard-front.jungle-green,
+.tcard .tcard-back.jungle-green,
+.tcard.skin_2 .tcard-front.jungle-green:before,
+.tcard.skin_2 .tcard-back.jungle-green .email, 
+.tcard.skin_2 .tcard-back.jungle-green .tcard-button-gallery,
+.tcard.skin_3 .jungle-green .tcard-form .tc-form-button,
+.tcard.skin_4 .jungle-green .tcard-submit,
+.tcard.skin_6 .tcard-front.jungle-green:before,
+.tcard.skin_6 .tcard-front.jungle-green .tcard-content-item h2{
+    background-color: #29ab87;
+}
+
+.tcard.skin_1 .tcard-front.jungle-green .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.jungle-green .tcard-header-title h2 span{
+    color: #29ab87;
+}
+
+.tcard.skin_1 .tcard-back.jungle-green:before,
+.tcard.skin_2 .tcard-back.jungle-green .tcard-header:before {
+    background-color: rgba(41, 171, 135, 0.8); 
+}
+
+.tcard.skin_2 .jungle-green #svg circle {
+    stroke: #29ab87;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.jungle-green:before,
+.tcard.skin_2.frosted-glass .tcard-back.jungle-green .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.jungle-green:before, 
+.tcard.skin_3.frosted-glass .tcard-front.jungle-green:before,
+.tcard.skin_4.frosted-glass .jungle-green .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(41, 171, 135,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(41, 171, 135,0.5);
+}
+
+.tcard.skin_2.frosted-glass .jungle-green .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .jungle-green .email{
+    background-color: rgba(41, 171, 135, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.jungle-green:before, 
+.tcard.skin_3 .tcard-front.jungle-green:before{
+    background: -webkit-linear-gradient(120deg,rgba(41, 171, 135,.6) 0,#29ab87 90%);
+    background: -o-linear-gradient(120deg,rgba(41, 171, 135,.6) 0,#29ab87 90%);
+    background: linear-gradient(-30deg,rgba(41, 171, 135,.6) 0,#29ab87 90%);
+}
+
+.tcard.skin_4 .jungle-green .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(41, 171, 135,.8) 0,#29ab87 100%);
+    background: -o-linear-gradient(120deg,rgba(41, 171, 135,.8) 0,#29ab87 100%);
+    background: linear-gradient(-30deg,rgba(41, 171, 135,.8) 0,#29ab87 100%);
+}
+
+
+/********************
+
+   lemon
+
+*********************/
+
+.tcard .tcard-front.lemon,
+.tcard .tcard-back.lemon,
+.tcard.skin_2 .tcard-front.lemon:before,
+.tcard.skin_2 .tcard-back.lemon .email, 
+.tcard.skin_2 .tcard-back.lemon .tcard-button-gallery,
+.tcard.skin_3 .lemon .tcard-form .tc-form-button,
+.tcard.skin_4 .lemon .tcard-submit,
+.tcard.skin_6 .tcard-front.lemon:before,
+.tcard.skin_6 .tcard-front.lemon .tcard-content-item h2{
+    background-color: #fff700;
+}
+
+.tcard.skin_1 .tcard-front.lemon .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.lemon .tcard-header-title h2 span{
+    color: #fff700;
+}
+
+.tcard.skin_1 .tcard-back.lemon:before,
+.tcard.skin_2 .tcard-back.lemon .tcard-header:before {
+    background-color: rgba(255, 247, 0, 0.8); 
+}
+
+.tcard.skin_2 .lemon #svg circle {
+    stroke: #fff700;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.lemon:before,
+.tcard.skin_2.frosted-glass .tcard-back.lemon .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.lemon:before, 
+.tcard.skin_3.frosted-glass .tcard-front.lemon:before,
+.tcard.skin_4.frosted-glass .lemon .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(255, 247, 0,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(255, 247, 0,0.5);
+}
+
+.tcard.skin_2.frosted-glass .lemon .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .lemon .email{
+    background-color: rgba(255, 247, 0, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.lemon:before, 
+.tcard.skin_3 .tcard-front.lemon:before{
+    background: -webkit-linear-gradient(120deg,rgba(255, 247, 0,.6) 0,#fff700 90%);
+    background: -o-linear-gradient(120deg,rgba(255, 247, 0,.6) 0,#fff700 90%);
+    background: linear-gradient(-30deg,rgba(255, 247, 0,.6) 0,#fff700 90%);
+}
+
+.tcard.skin_4 .lemon .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(255, 247, 0,.8) 0,#fff700 100%);
+    background: -o-linear-gradient(120deg,rgba(255, 247, 0,.8) 0,#fff700 100%);
+    background: linear-gradient(-30deg,rgba(255, 247, 0,.8) 0,#fff700 100%);
+}
+
+.tcard .lemon,
+.tcard .lemon .tcard-button.social_button .tcard-social-list a,
+.tcard.skin_1 .tcard-back.lemon .skill-title,
+.tcard .lemon .email, 
+.tcard .lemon .tcard-button-gallery,
+.tcard .lemon .tcard-header-title h2,
+.tcard .lemon .info_list .tcard-list li p,
+.tcard .lemon .content-info h3,
+.tcard .lemon .social_list .tcard-list li a,
+.tcard .lemon .tcard-login-title,
+.tcard .lemon .tcard-login a,
+.tcard .lemon .tc-login_display_title.before_log h2,
+.tcard .lemon .tcard-form-item label, 
+.tcard .lemon .tcard-icon,
+.tcard .lemon .tcard-header-info h3,
+.tcard.skin_6 .lemon .tcard-content-item h2,
+.tcard.skin_3 .lemon .tcard-content-item h2,
+.tcard .lemon .tcard-ellipsis_text h3,
+.tcard .lemon .tcard-ellipsis_text h2{
+    color: #323232;
+}
+
+.tcard.skin_5 .lemon .tcard-header-title h2,
+.tcard .lemon .tc-post-date{
+    color: #fff;
+}
+
+.tcard .lemon .tcard-button .tcard-btn-line,
+.tcard .lemon .tcard-button.social_button .tcard-btn-line:nth-child(2):before, 
+.tcard .lemon .tcard-button.social_button .tcard-btn-line:nth-child(3):before,
+.tcard .lemon .tcard-form .tc-form-button{
+    background: #323232 !important;
+}
+
+.tcard .lemon .tcard-progress-bar{
+    background: rgba(50, 50, 50,0.7);
+}
+
+.tcard .lemon .tcard-bar{
+    background: rgba(50, 50, 50,0.9);
+}
+
+.tcard .lemon .content-info,
+.tcard .lemon .tcard-footer h4,
+.tcard.skin_1 .lemon li h4,
+.tcard .lemon .tc_button .tcard-button{
+    color: rgba(50, 50, 50,0.9);
+}
+
+.tcard .lemon .tcard-form-item.remember .tocheck{
+    background: rgba(50, 50, 50,0.1);
+    -webkit-box-shadow: inset 0px 0px 5px 0px rgba(50,50,50,1);
+    box-shadow: inset 0px 0px 5px 0px rgba(50,50,50,1);
+}
+
+.tcard .lemon .tcard-avatar,
+.tcard .lemon .tcard-button-gallery.icon, 
+.tcard .lemon .email.icon,
+.tcard .lemon .tcard-form-item.remember .tocheck:before{
+    border-color: rgba(50, 50, 50,0.7);
+}
+
+.tcard .lemon .tcard-form-item input{
+    border-bottom: 1px solid rgba(50,50,50,.3);
+}
+
+/********************
+
+   lemon-lime
+
+*********************/
+
+.tcard .tcard-front.lemon-lime,
+.tcard .tcard-back.lemon-lime,
+.tcard.skin_2 .tcard-front.lemon-lime:before,
+.tcard.skin_2 .tcard-back.lemon-lime .email, 
+.tcard.skin_2 .tcard-back.lemon-lime .tcard-button-gallery,
+.tcard.skin_3 .lemon-lime .tcard-form .tc-form-button,
+.tcard.skin_4 .lemon-lime .tcard-submit,
+.tcard.skin_6 .tcard-front.lemon-lime:before,
+.tcard.skin_6 .tcard-front.lemon-lime .tcard-content-item h2{
+    background-color: #bfff00;
+}
+
+.tcard.skin_1 .tcard-front.lemon-lime .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.lemon-lime .tcard-header-title h2 span{
+    color: #bfff00;
+}
+
+.tcard.skin_1 .tcard-back.lemon-lime:before,
+.tcard.skin_2 .tcard-back.lemon-lime .tcard-header:before {
+    background-color: rgba(191, 255, 0, 0.8); 
+}
+
+.tcard.skin_2 .lemon-lime #svg circle {
+    stroke: #bfff00;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.lemon-lime:before,
+.tcard.skin_2.frosted-glass .tcard-back.lemon-lime .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.lemon-lime:before, 
+.tcard.skin_3.frosted-glass .tcard-front.lemon-lime:before,
+.tcard.skin_4.frosted-glass .lemon-lime .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(191, 255, 0,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(191, 255, 0,0.5);
+}
+
+.tcard.skin_2.frosted-glass .lemon-lime .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .lemon-lime .email{
+    background-color: rgba(191, 255, 0, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.lemon-lime:before, 
+.tcard.skin_3 .tcard-front.lemon-lime:before{
+    background: -webkit-linear-gradient(120deg,rgba(191, 255, 0,.6) 0,#bfff00 90%);
+    background: -o-linear-gradient(120deg,rgba(191, 255, 0,.6) 0,#bfff00 90%);
+    background: linear-gradient(-30deg,rgba(191, 255, 0,.6) 0,#bfff00 90%);
+}
+
+.tcard.skin_4 .lemon-lime .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(191, 255, 0,.8) 0,#bfff00 100%);
+    background: -o-linear-gradient(120deg,rgba(191, 255, 0,.8) 0,#bfff00 100%);
+    background: linear-gradient(-30deg,rgba(191, 255, 0,.8) 0,#bfff00 100%);
+}
+
+
+.tcard .lemon-lime,
+.tcard .lemon-lime .tcard-button.social_button .tcard-social-list a,
+.tcard.skin_1 .tcard-back.lemon-lime .skill-title,
+.tcard .lemon-lime .email, 
+.tcard .lemon-lime .tcard-button-gallery,
+.tcard .lemon-lime .tcard-header-title h2,
+.tcard .lemon-lime .info_list .tcard-list li p,
+.tcard .lemon-lime .content-info h3,
+.tcard .lemon-lime .social_list .tcard-list li a,
+.tcard .lemon-lime .tcard-login-title,
+.tcard .lemon-lime .tcard-login a,
+.tcard .lemon-lime .tc-login_display_title.before_log h2,
+.tcard .lemon-lime .tcard-form-item label, 
+.tcard .lemon-lime .tcard-icon,
+.tcard .lemon-lime .tcard-header-info h3,
+.tcard.skin_6 .lemon-lime .tcard-content-item h2,
+.tcard.skin_3 .lemon-lime .tcard-content-item h2,
+.tcard .lemon-lime .tcard-ellipsis_text h3,
+.tcard .lemon-lime .tcard-ellipsis_text h2{
+    color: #323232;
+}
+
+.tcard.skin_5 .lemon-lime .tcard-header-title h2,
+.tcard .lemon-lime .tc-post-date{
+    color: #fff;
+}
+
+.tcard .lemon-lime .tcard-button .tcard-btn-line,
+.tcard .lemon-lime .tcard-button.social_button .tcard-btn-line:nth-child(2):before, 
+.tcard .lemon-lime .tcard-button.social_button .tcard-btn-line:nth-child(3):before,
+.tcard.skin_4 .lemon-lime .tcard-submit,
+.tcard .lemon-lime .tcard-form .tc-form-button{
+    background: #323232 !important;
+}
+
+.tcard .lemon-lime .tcard-progress-bar{
+    background: rgba(50, 50, 50,0.7);
+}
+
+.tcard .lemon-lime .tcard-bar{
+    background: rgba(50, 50, 50,0.9);
+}
+
+.tcard .lemon-lime .content-info,
+.tcard .lemon-lime .tcard-footer h4,
+.tcard.skin_1 .lemon-lime li h4,
+.tcard .lemon-lime .tc_button .tcard-button{
+    color: rgba(50, 50, 50,0.9);
+}
+
+.tcard .lemon-lime .tcard-form-item.remember .tocheck{
+    background: rgba(50, 50, 50,0.1);
+    -webkit-box-shadow: inset 0px 0px 5px 0px rgba(50,50,50,1);
+    box-shadow: inset 0px 0px 5px 0px rgba(50,50,50,1);
+}
+
+.tcard .lemon-lime .tcard-avatar,
+.tcard .lemon-lime .tcard-button-gallery.icon, 
+.tcard .lemon-lime .email.icon,
+.tcard .lemon-lime .tcard-form-item.remember .tocheck:before{
+    border-color: rgba(50, 50, 50,0.7);
+}
+
+.tcard .lemon-lime .tcard-form-item input{
+    border-bottom: 1px solid rgba(50,50,50,.3);
+}
+
+
+/********************
+
+   lava
+
+*********************/
+
+.tcard .tcard-front.lava,
+.tcard .tcard-back.lava,
+.tcard.skin_2 .tcard-front.lava:before,
+.tcard.skin_2 .tcard-back.lava .email, 
+.tcard.skin_2 .tcard-back.lava .tcard-button-gallery,
+.tcard.skin_3 .lava .tcard-form .tc-form-button,
+.tcard.skin_4 .lava .tcard-submit,
+.tcard.skin_6 .tcard-front.lava:before,
+.tcard.skin_6 .tcard-front.lava .tcard-content-item h2{
+    background-color: #cf1020;
+}
+
+.tcard.skin_1 .tcard-front.lava .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.lava .tcard-header-title h2 span{
+    color: #cf1020;
+}
+
+.tcard.skin_1 .tcard-back.lava:before,
+.tcard.skin_2 .tcard-back.lava .tcard-header:before {
+    background-color: rgba(207, 16, 32, 0.8); 
+}
+
+.tcard.skin_2 .lava #svg circle {
+    stroke: #cf1020;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.lava:before,
+.tcard.skin_2.frosted-glass .tcard-back.lava .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.lava:before, 
+.tcard.skin_3.frosted-glass .tcard-front.lava:before,
+.tcard.skin_4.frosted-glass .lava .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(207, 16, 32,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(207, 16, 32,0.5);
+}
+
+.tcard.skin_2.frosted-glass .lava .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .lava .email{
+    background-color: rgba(207, 16, 32, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.lava:before, 
+.tcard.skin_3 .tcard-front.lava:before{
+    background: -webkit-linear-gradient(120deg,rgba(207, 16, 32,.6) 0,#cf1020 90%);
+    background: -o-linear-gradient(120deg,rgba(207, 16, 32,.6) 0,#cf1020 90%);
+    background: linear-gradient(-30deg,rgba(207, 16, 32,.6) 0,#cf1020 90%);
+}
+
+.tcard.skin_4 .lava .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(207, 16, 32,.8) 0,#cf1020 100%);
+    background: -o-linear-gradient(120deg,rgba(207, 16, 32,.8) 0,#cf1020 100%);
+    background: linear-gradient(-30deg,rgba(207, 16, 32,.8) 0,#cf1020 100%);
+}
+
+
+/********************
+
+   lavender-blue
+
+*********************/
+
+.tcard .tcard-front.lavender-blue,
+.tcard .tcard-back.lavender-blue,
+.tcard.skin_2 .tcard-front.lavender-blue:before,
+.tcard.skin_2 .tcard-back.lavender-blue .email, 
+.tcard.skin_2 .tcard-back.lavender-blue .tcard-button-gallery,
+.tcard.skin_3 .lavender-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .lavender-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.lavender-blue:before,
+.tcard.skin_6 .tcard-front.lavender-blue .tcard-content-item h2{
+    background-color: #ccccff;
+}
+
+.tcard.skin_1 .tcard-front.lavender-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.lavender-blue .tcard-header-title h2 span{
+    color: #ccccff;
+}
+
+.tcard.skin_1 .tcard-back.lavender-blue:before,
+.tcard.skin_2 .tcard-back.lavender-blue .tcard-header:before {
+    background-color: rgba(204, 204, 255, 0.8); 
+}
+
+.tcard.skin_2 .lavender-blue #svg circle {
+    stroke: #ccccff;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.lavender-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.lavender-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.lavender-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.lavender-blue:before,
+.tcard.skin_4.frosted-glass .lavender-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(204, 204, 255,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(204, 204, 255,0.5);
+}
+
+.tcard.skin_2.frosted-glass .lavender-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .lavender-blue .email{
+    background-color: rgba(204, 204, 255, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.lavender-blue:before, 
+.tcard.skin_3 .tcard-front.lavender-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(204, 204, 255,.6) 0,#ccccff 90%);
+    background: -o-linear-gradient(120deg,rgba(204, 204, 255,.6) 0,#ccccff 90%);
+    background: linear-gradient(-30deg,rgba(204, 204, 255,.6) 0,#ccccff 90%);
+}
+
+.tcard.skin_4 .lavender-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(204, 204, 255,.8) 0,#ccccff 100%);
+    background: -o-linear-gradient(120deg,rgba(204, 204, 255,.8) 0,#ccccff 100%);
+    background: linear-gradient(-30deg,rgba(204, 204, 255,.8) 0,#ccccff 100%);
+}
+
+
+
+/********************
+
+   light-sea-green
+
+*********************/
+
+.tcard .tcard-front.light-sea-green,
+.tcard .tcard-back.light-sea-green,
+.tcard.skin_2 .tcard-front.light-sea-green:before,
+.tcard.skin_2 .tcard-back.light-sea-green .email, 
+.tcard.skin_2 .tcard-back.light-sea-green .tcard-button-gallery,
+.tcard.skin_3 .light-sea-green .tcard-form .tc-form-button,
+.tcard.skin_4 .light-sea-green .tcard-submit,
+.tcard.skin_6 .tcard-front.light-sea-green:before,
+.tcard.skin_6 .tcard-front.light-sea-green .tcard-content-item h2{
+    background-color: #20b2aa;
+}
+
+.tcard.skin_1 .tcard-front.light-sea-green .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.light-sea-green .tcard-header-title h2 span{
+    color: #20b2aa;
+}
+
+.tcard.skin_1 .tcard-back.light-sea-green:before,
+.tcard.skin_2 .tcard-back.light-sea-green .tcard-header:before {
+    background-color: rgba(32, 178, 170, 0.8); 
+}
+
+.tcard.skin_2 .light-sea-green #svg circle {
+    stroke: #20b2aa;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.light-sea-green:before,
+.tcard.skin_2.frosted-glass .tcard-back.light-sea-green .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.light-sea-green:before, 
+.tcard.skin_3.frosted-glass .tcard-front.light-sea-green:before,
+.tcard.skin_4.frosted-glass .light-sea-green .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(32, 178, 170,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(32, 178, 170,0.5);
+}
+
+.tcard.skin_2.frosted-glass .light-sea-green .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .light-sea-green .email{
+    background-color: rgba(32, 178, 170, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.light-sea-green:before, 
+.tcard.skin_3 .tcard-front.light-sea-green:before{
+    background: -webkit-linear-gradient(120deg,rgba(32, 178, 170,.6) 0,#20b2aa 90%);
+    background: -o-linear-gradient(120deg,rgba(32, 178, 170,.6) 0,#20b2aa 90%);
+    background: linear-gradient(-30deg,rgba(32, 178, 170,.6) 0,#20b2aa 90%);
+}
+
+.tcard.skin_4 .light-sea-green .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(32, 178, 170,.8) 0,#20b2aa 100%);
+    background: -o-linear-gradient(120deg,rgba(32, 178, 170,.8) 0,#20b2aa 100%);
+    background: linear-gradient(-30deg,rgba(32, 178, 170,.8) 0,#20b2aa 100%);
+}
+
+
+
+/********************
+
+   light-slate-gray
+
+*********************/
+
+.tcard .tcard-front.light-slate-gray,
+.tcard .tcard-back.light-slate-gray,
+.tcard.skin_2 .tcard-front.light-slate-gray:before,
+.tcard.skin_2 .tcard-back.light-slate-gray .email, 
+.tcard.skin_2 .tcard-back.light-slate-gray .tcard-button-gallery,
+.tcard.skin_3 .light-slate-gray .tcard-form .tc-form-button,
+.tcard.skin_4 .light-slate-gray .tcard-submit,
+.tcard.skin_6 .tcard-front.light-slate-gray:before,
+.tcard.skin_6 .tcard-front.light-slate-gray .tcard-content-item h2{
+    background-color: #778899;
+}
+
+.tcard.skin_1 .tcard-front.light-slate-gray .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.light-slate-gray .tcard-header-title h2 span{
+    color: #778899;
+}
+
+.tcard.skin_1 .tcard-back.light-slate-gray:before,
+.tcard.skin_2 .tcard-back.light-slate-gray .tcard-header:before {
+    background-color: rgba(119, 136, 153, 0.8); 
+}
+
+.tcard.skin_2 .light-slate-gray #svg circle {
+    stroke: #778899;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.light-slate-gray:before,
+.tcard.skin_2.frosted-glass .tcard-back.light-slate-gray .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.light-slate-gray:before, 
+.tcard.skin_3.frosted-glass .tcard-front.light-slate-gray:before,
+.tcard.skin_4.frosted-glass .light-slate-gray .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(119, 136, 153,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(119, 136, 153,0.5);
+}
+
+.tcard.skin_2.frosted-glass .light-slate-gray .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .light-slate-gray .email{
+    background-color: rgba(119, 136, 153, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.light-slate-gray:before, 
+.tcard.skin_3 .tcard-front.light-slate-gray:before{
+    background: -webkit-linear-gradient(120deg,rgba(119, 136, 153,.6) 0,#778899 90%);
+    background: -o-linear-gradient(120deg,rgba(119, 136, 153,.6) 0,#778899 90%);
+    background: linear-gradient(-30deg,rgba(119, 136, 153,.6) 0,#778899 90%);
+}
+
+.tcard.skin_4 .light-slate-gray .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(119, 136, 153,.8) 0,#778899 100%);
+    background: -o-linear-gradient(120deg,rgba(119, 136, 153,.8) 0,#778899 100%);
+    background: linear-gradient(-30deg,rgba(119, 136, 153,.8) 0,#778899 100%);
+}
+
+
+
+/********************
+
+   majorelle-blue
+
+*********************/
+
+.tcard .tcard-front.majorelle-blue,
+.tcard .tcard-back.majorelle-blue,
+.tcard.skin_2 .tcard-front.majorelle-blue:before,
+.tcard.skin_2 .tcard-back.majorelle-blue .email, 
+.tcard.skin_2 .tcard-back.majorelle-blue .tcard-button-gallery,
+.tcard.skin_3 .majorelle-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .majorelle-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.majorelle-blue:before,
+.tcard.skin_6 .tcard-front.majorelle-blue .tcard-content-item h2{
+    background-color: #6050dc;
+}
+
+.tcard.skin_1 .tcard-front.majorelle-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.majorelle-blue .tcard-header-title h2 span{
+    color: #6050dc;
+}
+
+.tcard.skin_1 .tcard-back.majorelle-blue:before,
+.tcard.skin_2 .tcard-back.majorelle-blue .tcard-header:before {
+    background-color: rgba(96, 80, 220, 0.8); 
+}
+
+.tcard.skin_2 .majorelle-blue #svg circle {
+    stroke: #6050dc;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.majorelle-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.majorelle-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.majorelle-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.majorelle-blue:before,
+.tcard.skin_4.frosted-glass .majorelle-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(96, 80, 220,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(96, 80, 220,0.5);
+}
+
+.tcard.skin_2.frosted-glass .majorelle-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .majorelle-blue .email{
+    background-color: rgba(96, 80, 220, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.majorelle-blue:before, 
+.tcard.skin_3 .tcard-front.majorelle-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(96, 80, 220,.6) 0,#6050dc 90%);
+    background: -o-linear-gradient(120deg,rgba(96, 80, 220,.6) 0,#6050dc 90%);
+    background: linear-gradient(-30deg,rgba(96, 80, 220,.6) 0,#6050dc 90%);
+}
+
+.tcard.skin_4 .majorelle-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(96, 80, 220,.8) 0,#6050dc 100%);
+    background: -o-linear-gradient(120deg,rgba(96, 80, 220,.8) 0,#6050dc 100%);
+    background: linear-gradient(-30deg,rgba(96, 80, 220,.8) 0,#6050dc 100%);
+}
+
+
+
+/********************
+
+   medium-persian-blue
+
+*********************/
+
+.tcard .tcard-front.medium-persian-blue,
+.tcard .tcard-back.medium-persian-blue,
+.tcard.skin_2 .tcard-front.medium-persian-blue:before,
+.tcard.skin_2 .tcard-back.medium-persian-blue .email, 
+.tcard.skin_2 .tcard-back.medium-persian-blue .tcard-button-gallery,
+.tcard.skin_3 .medium-persian-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .medium-persian-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.medium-persian-blue:before,
+.tcard.skin_6 .tcard-front.medium-persian-blue .tcard-content-item h2{
+    background-color: #0067a5;
+}
+
+.tcard.skin_1 .tcard-front.medium-persian-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.medium-persian-blue .tcard-header-title h2 span{
+    color: #0067a5;
+}
+
+.tcard.skin_1 .tcard-back.medium-persian-blue:before,
+.tcard.skin_2 .tcard-back.medium-persian-blue .tcard-header:before {
+    background-color: rgba(0, 103, 165, 0.8); 
+}
+
+.tcard.skin_2 .medium-persian-blue #svg circle {
+    stroke: #0067a5;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.medium-persian-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.medium-persian-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.medium-persian-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.medium-persian-blue:before,
+.tcard.skin_4.frosted-glass .medium-persian-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 103, 165,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 103, 165,0.5);
+}
+
+.tcard.skin_2.frosted-glass .medium-persian-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .medium-persian-blue .email{
+    background-color: rgba(0, 103, 165, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.medium-persian-blue:before, 
+.tcard.skin_3 .tcard-front.medium-persian-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 103, 165,.6) 0,#0067a5 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 103, 165,.6) 0,#0067a5 90%);
+    background: linear-gradient(-30deg,rgba(0, 103, 165,.6) 0,#0067a5 90%);
+}
+
+.tcard.skin_4 .medium-persian-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 103, 165,.8) 0,#0067a5 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 103, 165,.8) 0,#0067a5 100%);
+    background: linear-gradient(-30deg,rgba(0, 103, 165,.8) 0,#0067a5 100%);
+}
+
+
+
+/********************
+
+   magenta
+
+*********************/
+
+.tcard .tcard-front.magenta,
+.tcard .tcard-back.magenta,
+.tcard.skin_2 .tcard-front.magenta:before,
+.tcard.skin_2 .tcard-back.magenta .email, 
+.tcard.skin_2 .tcard-back.magenta .tcard-button-gallery,
+.tcard.skin_3 .magenta .tcard-form .tc-form-button,
+.tcard.skin_4 .magenta .tcard-submit,
+.tcard.skin_6 .tcard-front.magenta:before,
+.tcard.skin_6 .tcard-front.magenta .tcard-content-item h2{
+    background-color: #FF00FF;
+}
+
+.tcard.skin_1 .tcard-front.magenta .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.magenta .tcard-header-title h2 span{
+    color: #FF00FF;
+}
+
+.tcard.skin_1 .tcard-back.magenta:before,
+.tcard.skin_2 .tcard-back.magenta .tcard-header:before {
+    background-color: rgba(255, 0, 255, 0.8); 
+}
+
+.tcard.skin_2 .magenta #svg circle {
+    stroke: #FF00FF;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.magenta:before,
+.tcard.skin_2.frosted-glass .tcard-back.magenta .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.magenta:before, 
+.tcard.skin_3.frosted-glass .tcard-front.magenta:before,
+.tcard.skin_4.frosted-glass .magenta .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(255, 0, 255,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(255, 0, 255,0.5);
+}
+
+.tcard.skin_2.frosted-glass .magenta .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .magenta .email{
+    background-color: rgba(255, 0, 255, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.magenta:before, 
+.tcard.skin_3 .tcard-front.magenta:before{
+    background: -webkit-linear-gradient(120deg,rgba(255, 0, 255,.6) 0,#FF00FF 90%);
+    background: -o-linear-gradient(120deg,rgba(255, 0, 255,.6) 0,#FF00FF 90%);
+    background: linear-gradient(-30deg,rgba(255, 0, 255,.6) 0,#FF00FF 90%);
+}
+
+.tcard.skin_4 .magenta .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(255, 0, 255,.8) 0,#FF00FF 100%);
+    background: -o-linear-gradient(120deg,rgba(255, 0, 255,.8) 0,#FF00FF 100%);
+    background: linear-gradient(-30deg,rgba(255, 0, 255,.8) 0,#FF00FF 100%);
+}
+
+
+/********************
+
+   navy
+
+*********************/
+
+.tcard .tcard-front.navy,
+.tcard .tcard-back.navy,
+.tcard.skin_2 .tcard-front.navy:before,
+.tcard.skin_2 .tcard-back.navy .email, 
+.tcard.skin_2 .tcard-back.navy .tcard-button-gallery,
+.tcard.skin_3 .navy .tcard-form .tc-form-button,
+.tcard.skin_4 .navy .tcard-submit,
+.tcard.skin_6 .tcard-front.navy:before,
+.tcard.skin_6 .tcard-front.navy .tcard-content-item h2{
+    background-color: #000080;
+}
+
+.tcard.skin_1 .tcard-front.navy .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.navy .tcard-header-title h2 span{
+    color: #000080;
+}
+
+.tcard.skin_1 .tcard-back.navy:before,
+.tcard.skin_2 .tcard-back.navy .tcard-header:before {
+    background-color: rgba(0, 0, 128, 0.8); 
+}
+
+.tcard.skin_2 .navy #svg circle {
+    stroke: #000080;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.navy:before,
+.tcard.skin_2.frosted-glass .tcard-back.navy .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.navy:before, 
+.tcard.skin_3.frosted-glass .tcard-front.navy:before,
+.tcard.skin_4.frosted-glass .navy .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 0, 128,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 128,0.5);
+}
+
+.tcard.skin_2.frosted-glass .navy .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .navy .email{
+    background-color: rgba(0, 0, 128, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.navy:before, 
+.tcard.skin_3 .tcard-front.navy:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 0, 128,.6) 0,#000080 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 0, 128,.6) 0,#000080 90%);
+    background: linear-gradient(-30deg,rgba(0, 0, 128,.6) 0,#000080 90%);
+}
+
+.tcard.skin_4 .navy .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 0, 128,.8) 0,#000080 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 0, 128,.8) 0,#000080 100%);
+    background: linear-gradient(-30deg,rgba(0, 0, 128,.8) 0,#000080 100%);
+}
+
+
+
+/********************
+
+   orange
+
+*********************/
+
+.tcard .tcard-front.orange,
+.tcard .tcard-back.orange,
+.tcard.skin_2 .tcard-front.orange:before,
+.tcard.skin_2 .tcard-back.orange .email, 
+.tcard.skin_2 .tcard-back.orange .tcard-button-gallery,
+.tcard.skin_3 .orange .tcard-form .tc-form-button,
+.tcard.skin_4 .orange .tcard-submit,
+.tcard.skin_6 .tcard-front.orange:before,
+.tcard.skin_6 .tcard-front.orange .tcard-content-item h2{
+    background-color: #ffa500;
+}
+
+.tcard.skin_1 .tcard-front.orange .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.orange .tcard-header-title h2 span{
+    color: #ffa500;
+}
+
+.tcard.skin_1 .tcard-back.orange:before,
+.tcard.skin_2 .tcard-back.orange .tcard-header:before {
+    background-color: rgba(255, 165, 0, 0.8); 
+}
+
+.tcard.skin_2 .orange #svg circle {
+    stroke: #ffa500;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.orange:before,
+.tcard.skin_2.frosted-glass .tcard-back.orange .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.orange:before, 
+.tcard.skin_3.frosted-glass .tcard-front.orange:before,
+.tcard.skin_4.frosted-glass .orange .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(255, 165, 0,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(255, 165, 0,0.5);
+}
+
+.tcard.skin_2.frosted-glass .orange .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .orange .email{
+    background-color: rgba(255, 165, 0, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.orange:before, 
+.tcard.skin_3 .tcard-front.orange:before{
+    background: -webkit-linear-gradient(120deg,rgba(255, 165, 0,.6) 0,#ffa500 90%);
+    background: -o-linear-gradient(120deg,rgba(255, 165, 0,.6) 0,#ffa500 90%);
+    background: linear-gradient(-30deg,rgba(255, 165, 0,.6) 0,#ffa500 90%);
+}
+
+.tcard.skin_4 .orange .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(255, 165, 0,.8) 0,#ffa500 100%);
+    background: -o-linear-gradient(120deg,rgba(255, 165, 0,.8) 0,#ffa500 100%);
+    background: linear-gradient(-30deg,rgba(255, 165, 0,.8) 0,#ffa500 100%);
+}
+
+
+
+/********************
+
+   persian-red
+
+*********************/
+
+.tcard .tcard-front.persian-red,
+.tcard .tcard-back.persian-red,
+.tcard.skin_2 .tcard-front.persian-red:before,
+.tcard.skin_2 .tcard-back.persian-red .email, 
+.tcard.skin_2 .tcard-back.persian-red .tcard-button-gallery,
+.tcard.skin_3 .persian-red .tcard-form .tc-form-button,
+.tcard.skin_4 .persian-red .tcard-submit,
+.tcard.skin_6 .tcard-front.persian-red:before,
+.tcard.skin_6 .tcard-front.persian-red .tcard-content-item h2{
+    background-color: #cc3333;
+}
+
+.tcard.skin_1 .tcard-front.persian-red .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.persian-red .tcard-header-title h2 span{
+    color: #cc3333;
+}
+
+.tcard.skin_1 .tcard-back.persian-red:before,
+.tcard.skin_2 .tcard-back.persian-red .tcard-header:before {
+    background-color: rgba(0, 49, 83, 0.8); 
+}
+
+.tcard.skin_2 .persian-red #svg circle {
+    stroke: #cc3333;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.persian-red:before,
+.tcard.skin_2.frosted-glass .tcard-back.persian-red .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.persian-red:before, 
+.tcard.skin_3.frosted-glass .tcard-front.persian-red:before,
+.tcard.skin_4.frosted-glass .persian-red .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 49, 83,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 49, 83,0.5);
+}
+
+.tcard.skin_2.frosted-glass .persian-red .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .persian-red .email{
+    background-color: rgba(0, 49, 83, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.persian-red:before, 
+.tcard.skin_3 .tcard-front.persian-red:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 49, 83,.6) 0,#cc3333 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 49, 83,.6) 0,#cc3333 90%);
+    background: linear-gradient(-30deg,rgba(0, 49, 83,.6) 0,#cc3333 90%);
+}
+
+.tcard.skin_4 .persian-red .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 49, 83,.8) 0,#cc3333 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 49, 83,.8) 0,#cc3333 100%);
+    background: linear-gradient(-30deg,rgba(0, 49, 83,.8) 0,#cc3333 100%);
+}
+
+
+/********************
+
+   prussian-blue
+
+*********************/
+
+.tcard .tcard-front.prussian-blue,
+.tcard .tcard-back.prussian-blue,
+.tcard.skin_2 .tcard-front.prussian-blue:before,
+.tcard.skin_2 .tcard-back.prussian-blue .email, 
+.tcard.skin_2 .tcard-back.prussian-blue .tcard-button-gallery,
+.tcard.skin_3 .prussian-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .prussian-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.prussian-blue:before,
+.tcard.skin_6 .tcard-front.prussian-blue .tcard-content-item h2{
+    background-color: #003153;
+}
+
+.tcard.skin_1 .tcard-front.prussian-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.prussian-blue .tcard-header-title h2 span{
+    color: #003153;
+}
+
+.tcard.skin_1 .tcard-back.prussian-blue:before,
+.tcard.skin_2 .tcard-back.prussian-blue .tcard-header:before {
+    background-color: rgba(0, 49, 83, 0.8); 
+}
+
+.tcard.skin_2 .prussian-blue #svg circle {
+    stroke: #003153;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.prussian-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.prussian-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.prussian-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.prussian-blue:before,
+.tcard.skin_4.frosted-glass .prussian-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 49, 83,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 49, 83,0.5);
+}
+
+.tcard.skin_2.frosted-glass .prussian-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .prussian-blue .email{
+    background-color: rgba(0, 49, 83, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.prussian-blue:before, 
+.tcard.skin_3 .tcard-front.prussian-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 49, 83,.6) 0,#003153 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 49, 83,.6) 0,#003153 90%);
+    background: linear-gradient(-30deg,rgba(0, 49, 83,.6) 0,#003153 90%);
+}
+
+.tcard.skin_4 .prussian-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 49, 83,.8) 0,#003153 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 49, 83,.8) 0,#003153 100%);
+    background: linear-gradient(-30deg,rgba(0, 49, 83,.8) 0,#003153 100%);
+}
+
+
+/********************
+
+   paris-green
+
+*********************/
+
+.tcard .tcard-front.paris-green,
+.tcard .tcard-back.paris-green,
+.tcard.skin_2 .tcard-front.paris-green:before,
+.tcard.skin_2 .tcard-back.paris-green .email, 
+.tcard.skin_2 .tcard-back.paris-green .tcard-button-gallery,
+.tcard.skin_3 .paris-green .tcard-form .tc-form-button,
+.tcard.skin_4 .paris-green .tcard-submit,
+.tcard.skin_6 .tcard-front.paris-green:before,
+.tcard.skin_6 .tcard-front.paris-green .tcard-content-item h2{
+    background-color: #50c878;
+}
+
+.tcard.skin_1 .tcard-front.paris-green .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.paris-green .tcard-header-title h2 span{
+    color: #50c878;
+}
+
+.tcard.skin_1 .tcard-back.paris-green:before,
+.tcard.skin_2 .tcard-back.paris-green .tcard-header:before {
+    background-color: rgba(80, 200, 120, 0.8); 
+}
+
+.tcard.skin_2 .paris-green #svg circle {
+    stroke: #50c878;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.paris-green:before,
+.tcard.skin_2.frosted-glass .tcard-back.paris-green .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.paris-green:before, 
+.tcard.skin_3.frosted-glass .tcard-front.paris-green:before,
+.tcard.skin_4.frosted-glass .paris-green .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(80, 200, 120,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(80, 200, 120,0.5);
+}
+
+.tcard.skin_2.frosted-glass .paris-green .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .paris-green .email{
+    background-color: rgba(80, 200, 120, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.paris-green:before, 
+.tcard.skin_3 .tcard-front.paris-green:before{
+    background: -webkit-linear-gradient(120deg,rgba(80, 200, 120,.6) 0,#50c878 90%);
+    background: -o-linear-gradient(120deg,rgba(80, 200, 120,.6) 0,#50c878 90%);
+    background: linear-gradient(-30deg,rgba(80, 200, 120,.6) 0,#50c878 90%);
+}
+
+.tcard.skin_4 .paris-green .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(80, 200, 120,.8) 0,#50c878 100%);
+    background: -o-linear-gradient(120deg,rgba(80, 200, 120,.8) 0,#50c878 100%);
+    background: linear-gradient(-30deg,rgba(80, 200, 120,.8) 0,#50c878 100%);
+}
+
+
+
+/********************
+
+   rose-madder
+
+*********************/
+
+.tcard .tcard-front.rose-madder,
+.tcard .tcard-back.rose-madder,
+.tcard.skin_2 .tcard-front.rose-madder:before,
+.tcard.skin_2 .tcard-back.rose-madder .email, 
+.tcard.skin_2 .tcard-back.rose-madder .tcard-button-gallery,
+.tcard.skin_3 .rose-madder .tcard-form .tc-form-button,
+.tcard.skin_4 .rose-madder .tcard-submit,
+.tcard.skin_6 .tcard-front.rose-madder:before,
+.tcard.skin_6 .tcard-front.rose-madder .tcard-content-item h2{
+    background-color: #e32636;
+}
+
+.tcard.skin_1 .tcard-front.rose-madder .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.rose-madder .tcard-header-title h2 span{
+    color: #e32636;
+}
+
+.tcard.skin_1 .tcard-back.rose-madder:before,
+.tcard.skin_2 .tcard-back.rose-madder .tcard-header:before {
+    background-color: rgba(227, 38, 54, 0.8); 
+}
+
+.tcard.skin_2 .rose-madder #svg circle {
+    stroke: #e32636;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.rose-madder:before,
+.tcard.skin_2.frosted-glass .tcard-back.rose-madder .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.rose-madder:before, 
+.tcard.skin_3.frosted-glass .tcard-front.rose-madder:before,
+.tcard.skin_4.frosted-glass .rose-madder .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(227, 38, 54,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(227, 38, 54,0.5);
+}
+
+.tcard.skin_2.frosted-glass .rose-madder .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .rose-madder .email{
+    background-color: rgba(227, 38, 54, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.rose-madder:before, 
+.tcard.skin_3 .tcard-front.rose-madder:before{
+    background: -webkit-linear-gradient(120deg,rgba(227, 38, 54,.6) 0,#e32636 90%);
+    background: -o-linear-gradient(120deg,rgba(227, 38, 54,.6) 0,#e32636 90%);
+    background: linear-gradient(-30deg,rgba(227, 38, 54,.6) 0,#e32636 90%);
+}
+
+.tcard.skin_4 .rose-madder .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(227, 38, 54,.8) 0,#e32636 100%);
+    background: -o-linear-gradient(120deg,rgba(227, 38, 54,.8) 0,#e32636 100%);
+    background: linear-gradient(-30deg,rgba(227, 38, 54,.8) 0,#e32636 100%);
+}
+
+
+/********************
+
+   royal-blue
+
+*********************/
+
+.tcard .tcard-front.royal-blue,
+.tcard .tcard-back.royal-blue,
+.tcard.skin_2 .tcard-front.royal-blue:before,
+.tcard.skin_2 .tcard-back.royal-blue .email, 
+.tcard.skin_2 .tcard-back.royal-blue .tcard-button-gallery,
+.tcard.skin_3 .royal-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .royal-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.royal-blue:before,
+.tcard.skin_6 .tcard-front.royal-blue .tcard-content-item h2{
+    background-color: #4169e1;
+}
+
+.tcard.skin_1 .tcard-front.royal-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.royal-blue .tcard-header-title h2 span{
+    color: #4169e1;
+}
+
+.tcard.skin_1 .tcard-back.royal-blue:before,
+.tcard.skin_2 .tcard-back.royal-blue .tcard-header:before {
+    background-color: rgba(65, 105, 225, 0.8); 
+}
+
+.tcard.skin_2 .royal-blue #svg circle {
+    stroke: #4169e1;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.royal-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.royal-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.royal-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.royal-blue:before,
+.tcard.skin_4.frosted-glass .royal-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(65, 105, 225,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(65, 105, 225,0.5);
+}
+
+.tcard.skin_2.frosted-glass .royal-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .royal-blue .email{
+    background-color: rgba(65, 105, 225, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.royal-blue:before, 
+.tcard.skin_3 .tcard-front.royal-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(65, 105, 225,.6) 0,#4169e1 90%);
+    background: -o-linear-gradient(120deg,rgba(65, 105, 225,.6) 0,#4169e1 90%);
+    background: linear-gradient(-30deg,rgba(65, 105, 225,.6) 0,#4169e1 90%);
+}
+
+.tcard.skin_4 .royal-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(65, 105, 225,.8) 0,#4169e1 100%);
+    background: -o-linear-gradient(120deg,rgba(65, 105, 225,.8) 0,#4169e1 100%);
+    background: linear-gradient(-30deg,rgba(65, 105, 225,.8) 0,#4169e1 100%);
+}
+
+
+
+/********************
+
+   saint-blue
+
+*********************/
+
+.tcard .tcard-front.saint-blue,
+.tcard .tcard-back.saint-blue,
+.tcard.skin_2 .tcard-front.saint-blue:before,
+.tcard.skin_2 .tcard-back.saint-blue .email, 
+.tcard.skin_2 .tcard-back.saint-blue .tcard-button-gallery,
+.tcard.skin_3 .saint-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .saint-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.saint-blue:before,
+.tcard.skin_6 .tcard-front.saint-blue .tcard-content-item h2{
+    background-color: #23297a;
+}
+
+.tcard.skin_1 .tcard-front.saint-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.saint-blue .tcard-header-title h2 span{
+    color: #23297a;
+}
+
+.tcard.skin_1 .tcard-back.saint-blue:before,
+.tcard.skin_2 .tcard-back.saint-blue .tcard-header:before {
+    background-color: rgba(35, 41, 122, 0.8); 
+}
+
+.tcard.skin_2 .saint-blue #svg circle {
+    stroke: #23297a;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.saint-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.saint-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.saint-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.saint-blue:before,
+.tcard.skin_4.frosted-glass .saint-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(35, 41, 122,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(35, 41, 122,0.5);
+}
+
+.tcard.skin_2.frosted-glass .saint-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .saint-blue .email{
+    background-color: rgba(35, 41, 122, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.saint-blue:before, 
+.tcard.skin_3 .tcard-front.saint-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(35, 41, 122,.6) 0,#23297a 90%);
+    background: -o-linear-gradient(120deg,rgba(35, 41, 122,.6) 0,#23297a 90%);
+    background: linear-gradient(-30deg,rgba(35, 41, 122,.6) 0,#23297a 90%);
+}
+
+.tcard.skin_4 .saint-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(35, 41, 122,.8) 0,#23297a 100%);
+    background: -o-linear-gradient(120deg,rgba(35, 41, 122,.8) 0,#23297a 100%);
+    background: linear-gradient(-30deg,rgba(35, 41, 122,.8) 0,#23297a 100%);
+}
+
+
+
+/********************
+
+   sea-blue
+
+*********************/
+
+.tcard .tcard-front.sea-blue,
+.tcard .tcard-back.sea-blue,
+.tcard.skin_2 .tcard-front.sea-blue:before,
+.tcard.skin_2 .tcard-back.sea-blue .email, 
+.tcard.skin_2 .tcard-back.sea-blue .tcard-button-gallery,
+.tcard.skin_3 .sea-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .sea-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.sea-blue:before,
+.tcard.skin_6 .tcard-front.sea-blue .tcard-content-item h2{
+    background-color: #006994;
+}
+
+.tcard.skin_1 .tcard-front.sea-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.sea-blue .tcard-header-title h2 span{
+    color: #006994;
+}
+
+.tcard.skin_1 .tcard-back.sea-blue:before,
+.tcard.skin_2 .tcard-back.sea-blue .tcard-header:before {
+    background-color: rgba(0, 105, 148, 0.8); 
+}
+
+.tcard.skin_2 .sea-blue #svg circle {
+    stroke: #006994;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.sea-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.sea-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.sea-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.sea-blue:before,
+.tcard.skin_4.frosted-glass .sea-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 105, 148,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 105, 148,0.5);
+}
+
+.tcard.skin_2.frosted-glass .sea-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .sea-blue .email{
+    background-color: rgba(0, 105, 148, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.sea-blue:before, 
+.tcard.skin_3 .tcard-front.sea-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 105, 148,.6) 0,#006994 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 105, 148,.6) 0,#006994 90%);
+    background: linear-gradient(-30deg,rgba(0, 105, 148,.6) 0,#006994 90%);
+}
+
+.tcard.skin_4 .sea-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 105, 148,.8) 0,#006994 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 105, 148,.8) 0,#006994 100%);
+    background: linear-gradient(-30deg,rgba(0, 105, 148,.8) 0,#006994 100%);
+}
+
+
+
+/********************
+
+   screamin-green
+
+*********************/
+
+.tcard .tcard-front.screamin-green,
+.tcard .tcard-back.screamin-green,
+.tcard.skin_2 .tcard-front.screamin-green:before,
+.tcard.skin_2 .tcard-back.screamin-green .email, 
+.tcard.skin_2 .tcard-back.screamin-green .tcard-button-gallery,
+.tcard.skin_3 .screamin-green .tcard-form .tc-form-button,
+.tcard.skin_4 .screamin-green .tcard-submit,
+.tcard.skin_6 .tcard-front.screamin-green:before,
+.tcard.skin_6 .tcard-front.screamin-green .tcard-content-item h2{
+    background-color: #76ff7a;
+}
+
+.tcard.skin_1 .tcard-front.screamin-green .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.screamin-green .tcard-header-title h2 span{
+    color: #76ff7a;
+}
+
+.tcard.skin_1 .tcard-back.screamin-green:before,
+.tcard.skin_2 .tcard-back.screamin-green .tcard-header:before {
+    background-color: rgba(118, 255, 122, 0.8); 
+}
+
+.tcard.skin_2 .screamin-green #svg circle {
+    stroke: #76ff7a;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.screamin-green:before,
+.tcard.skin_2.frosted-glass .tcard-back.screamin-green .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.screamin-green:before, 
+.tcard.skin_3.frosted-glass .tcard-front.screamin-green:before,
+.tcard.skin_4.frosted-glass .screamin-green .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(118, 255, 122,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(118, 255, 122,0.5);
+}
+
+.tcard.skin_2.frosted-glass .screamin-green .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .screamin-green .email{
+    background-color: rgba(118, 255, 122, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.screamin-green:before, 
+.tcard.skin_3 .tcard-front.screamin-green:before{
+    background: -webkit-linear-gradient(120deg,rgba(118, 255, 122,.6) 0,#76ff7a 90%);
+    background: -o-linear-gradient(120deg,rgba(118, 255, 122,.6) 0,#76ff7a 90%);
+    background: linear-gradient(-30deg,rgba(118, 255, 122,.6) 0,#76ff7a 90%);
+}
+
+.tcard.skin_4 .screamin-green .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(118, 255, 122,.8) 0,#76ff7a 100%);
+    background: -o-linear-gradient(120deg,rgba(118, 255, 122,.8) 0,#76ff7a 100%);
+    background: linear-gradient(-30deg,rgba(118, 255, 122,.8) 0,#76ff7a 100%);
+}
+
+
+
+/********************
+
+   shamrock-green
+
+*********************/
+
+.tcard .tcard-front.shamrock-green,
+.tcard .tcard-back.shamrock-green,
+.tcard.skin_2 .tcard-front.shamrock-green:before,
+.tcard.skin_2 .tcard-back.shamrock-green .email, 
+.tcard.skin_2 .tcard-back.shamrock-green .tcard-button-gallery,
+.tcard.skin_3 .shamrock-green .tcard-form .tc-form-button,
+.tcard.skin_4 .shamrock-green .tcard-submit,
+.tcard.skin_6 .tcard-front.shamrock-green:before,
+.tcard.skin_6 .tcard-front.shamrock-green .tcard-content-item h2{
+    background-color: #009e60;
+}
+
+.tcard.skin_1 .tcard-front.shamrock-green .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.shamrock-green .tcard-header-title h2 span{
+    color: #009e60;
+}
+
+.tcard.skin_1 .tcard-back.shamrock-green:before,
+.tcard.skin_2 .tcard-back.shamrock-green .tcard-header:before {
+    background-color: rgba(0, 158, 96, 0.8); 
+}
+
+.tcard.skin_2 .shamrock-green #svg circle {
+    stroke: #009e60;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.shamrock-green:before,
+.tcard.skin_2.frosted-glass .tcard-back.shamrock-green .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.shamrock-green:before, 
+.tcard.skin_3.frosted-glass .tcard-front.shamrock-green:before,
+.tcard.skin_4.frosted-glass .shamrock-green .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 158, 96,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 158, 96,0.5);
+}
+
+.tcard.skin_2.frosted-glass .shamrock-green .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .shamrock-green .email{
+    background-color: rgba(0, 158, 96, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.shamrock-green:before, 
+.tcard.skin_3 .tcard-front.shamrock-green:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 158, 96,.6) 0,#009e60 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 158, 96,.6) 0,#009e60 90%);
+    background: linear-gradient(-30deg,rgba(0, 158, 96,.6) 0,#009e60 90%);
+}
+
+.tcard.skin_4 .shamrock-green .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 158, 96,.8) 0,#009e60 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 158, 96,.8) 0,#009e60 100%);
+    background: linear-gradient(-30deg,rgba(0, 158, 96,.8) 0,#009e60 100%);
+}
+
+
+
+/********************
+
+   true-blue
+
+*********************/
+
+.tcard .tcard-front.true-blue,
+.tcard .tcard-back.true-blue,
+.tcard.skin_2 .tcard-front.true-blue:before,
+.tcard.skin_2 .tcard-back.true-blue .email, 
+.tcard.skin_2 .tcard-back.true-blue .tcard-button-gallery,
+.tcard.skin_3 .true-blue .tcard-form .tc-form-button,
+.tcard.skin_4 .true-blue .tcard-submit,
+.tcard.skin_6 .tcard-front.true-blue:before,
+.tcard.skin_6 .tcard-front.true-blue .tcard-content-item h2{
+    background-color: #0073cf;
+}
+
+.tcard.skin_1 .tcard-front.true-blue .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.true-blue .tcard-header-title h2 span{
+    color: #0073cf;
+}
+
+.tcard.skin_1 .tcard-back.true-blue:before,
+.tcard.skin_2 .tcard-back.true-blue .tcard-header:before {
+    background-color: rgba(0, 115, 207, 0.8); 
+}
+
+.tcard.skin_2 .true-blue #svg circle {
+    stroke: #0073cf;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.true-blue:before,
+.tcard.skin_2.frosted-glass .tcard-back.true-blue .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.true-blue:before, 
+.tcard.skin_3.frosted-glass .tcard-front.true-blue:before,
+.tcard.skin_4.frosted-glass .true-blue .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 115, 207,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 115, 207,0.5);
+}
+
+.tcard.skin_2.frosted-glass .true-blue .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .true-blue .email{
+    background-color: rgba(0, 115, 207, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.true-blue:before, 
+.tcard.skin_3 .tcard-front.true-blue:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 115, 207,.6) 0,#0073cf 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 115, 207,.6) 0,#0073cf 90%);
+    background: linear-gradient(-30deg,rgba(0, 115, 207,.6) 0,#0073cf 90%);
+}
+
+.tcard.skin_4 .true-blue .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 115, 207,.8) 0,#0073cf 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 115, 207,.8) 0,#0073cf 100%);
+    background: linear-gradient(-30deg,rgba(0, 115, 207,.8) 0,#0073cf 100%);
+}
+
+
+
+/********************
+
+   teal
+
+*********************/
+
+.tcard .tcard-front.teal,
+.tcard .tcard-back.teal,
+.tcard.skin_2 .tcard-front.teal:before,
+.tcard.skin_2 .tcard-back.teal .email, 
+.tcard.skin_2 .tcard-back.teal .tcard-button-gallery,
+.tcard.skin_3 .teal .tcard-form .tc-form-button,
+.tcard.skin_4 .teal .tcard-submit,
+.tcard.skin_6 .tcard-front.teal:before,
+.tcard.skin_6 .tcard-front.teal .tcard-content-item h2{
+    background-color: #008080;
+}
+
+.tcard.skin_1 .tcard-front.teal .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.teal .tcard-header-title h2 span{
+    color: #008080;
+}
+
+.tcard.skin_1 .tcard-back.teal:before,
+.tcard.skin_2 .tcard-back.teal .tcard-header:before {
+    background-color: rgba(0, 128, 128, 0.8); 
+}
+
+.tcard.skin_2 .teal #svg circle {
+    stroke: #008080;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.teal:before,
+.tcard.skin_2.frosted-glass .tcard-back.teal .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.teal:before, 
+.tcard.skin_3.frosted-glass .tcard-front.teal:before,
+.tcard.skin_4.frosted-glass .teal .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(0, 128, 128,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(0, 128, 128,0.5);
+}
+
+.tcard.skin_2.frosted-glass .teal .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .teal .email{
+    background-color: rgba(0, 128, 128, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.teal:before, 
+.tcard.skin_3 .tcard-front.teal:before{
+    background: -webkit-linear-gradient(120deg,rgba(0, 128, 128,.6) 0,#008080 90%);
+    background: -o-linear-gradient(120deg,rgba(0, 128, 128,.6) 0,#008080 90%);
+    background: linear-gradient(-30deg,rgba(0, 128, 128,.6) 0,#008080 90%);
+}
+
+.tcard.skin_4 .teal .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(0, 128, 128,.8) 0,#008080 100%);
+    background: -o-linear-gradient(120deg,rgba(0, 128, 128,.8) 0,#008080 100%);
+    background: linear-gradient(-30deg,rgba(0, 128, 128,.8) 0,#008080 100%);
+}
+
+
+
+/********************
+
+   yellowgreen
+
+*********************/
+
+.tcard .tcard-front.yellowgreen,
+.tcard .tcard-back.yellowgreen,
+.tcard.skin_2 .tcard-front.yellowgreen:before,
+.tcard.skin_2 .tcard-back.yellowgreen .email, 
+.tcard.skin_2 .tcard-back.yellowgreen .tcard-button-gallery,
+.tcard.skin_3 .yellowgreen .tcard-form .tc-form-button,
+.tcard.skin_4 .yellowgreen .tcard-submit,
+.tcard.skin_6 .tcard-front.yellowgreen:before,
+.tcard.skin_6 .tcard-front.yellowgreen .tcard-content-item h2{
+    background-color: #9acd32;
+}
+
+.tcard.skin_1 .tcard-front.yellowgreen .tcard-content-item h2,
+.tcard.skin_5 .tcard-front.yellowgreen .tcard-header-title h2 span{
+    color: #9acd32;
+}
+
+.tcard.skin_1 .tcard-back.yellowgreen:before,
+.tcard.skin_2 .tcard-back.yellowgreen .tcard-header:before {
+    background-color: rgba(154, 205, 50, 0.8); 
+}
+
+.tcard.skin_2 .yellowgreen #svg circle {
+    stroke: #9acd32;
+}
+
+.tcard.skin_1.frosted-glass .tcard-back.yellowgreen:before,
+.tcard.skin_2.frosted-glass .tcard-back.yellowgreen .tcard-header:before,
+.tcard.skin_3.frosted-glass .tcard-back.yellowgreen:before, 
+.tcard.skin_3.frosted-glass .tcard-front.yellowgreen:before,
+.tcard.skin_4.frosted-glass .yellowgreen .tcard-header:before{
+    background: inherit;
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(154, 205, 50,0.5);
+    box-shadow: inset 0 0 0 1000px rgba(154, 205, 50,0.5);
+}
+
+.tcard.skin_2.frosted-glass .yellowgreen .tcard-button-gallery,
+.tcard.skin_2.frosted-glass .yellowgreen .email{
+    background-color: rgba(154, 205, 50, 0.5);
+}
+
+.tcard.skin_3 .tcard-back.yellowgreen:before, 
+.tcard.skin_3 .tcard-front.yellowgreen:before{
+    background: -webkit-linear-gradient(120deg,rgba(154, 205, 50,.6) 0,#9acd32 90%);
+    background: -o-linear-gradient(120deg,rgba(154, 205, 50,.6) 0,#9acd32 90%);
+    background: linear-gradient(-30deg,rgba(154, 205, 50,.6) 0,#9acd32 90%);
+}
+
+.tcard.skin_4 .yellowgreen .tcard-header:before {
+    background: -webkit-linear-gradient(120deg,rgba(154, 205, 50,.8) 0,#9acd32 100%);
+    background: -o-linear-gradient(120deg,rgba(154, 205, 50,.8) 0,#9acd32 100%);
+    background: linear-gradient(-30deg,rgba(154, 205, 50,.8) 0,#9acd32 100%);
+}

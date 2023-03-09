@@ -1,0 +1,1015 @@
+/* 
+ Author: Cloanta Alexandru
+ Name: Tcard > Arcfilter Wordpress
+ Version: 2.9.1
+*/
+
+ #adminmenu li.wp-has-current-submenu.toplevel_page_tcard a.wp-has-current-submenu{
+    background: #f62688
+}
+
+.create-new-group a,
+.tcard-sidebar-info .tcard-shortcode,
+.create-new-group a:hover{
+	color: #f62688;
+}
+
+.tcard .button-primary:hover, 
+.tcard-close-modal:hover, 
+.tcard .button-primary:focus {
+    background: #f62688;
+    border-color: #c41e6c;
+}
+
+.tcard-sidebar-item.group-settings h4.tcard-up-default{
+    display: inline-block;
+    padding: 0 10px;
+    line-height: 25px;
+    height: 25px;
+    width: auto;
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0;
+    top: -2px;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.tcard-sidebar-item.group-settings.mobile h4{
+    width: 124px;
+}
+
+h4.add_attr_wc{
+    text-align: center;
+    top: 1px;
+    line-height: 26px;
+    cursor: pointer;
+    color: #fff;
+}
+
+.tcard .button-primary,
+.tcard-close-modal,
+h4.tcard-up-image,
+h4.tcard-up-default,
+.add_attr_wc{
+    background: #f62688;
+    border-color: #dd227a #c41e6c #c41e6c;
+    -webkit-box-shadow: 0 1px 0 #c41e6c;
+    box-shadow: 0 1px 0 #c41e6c;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #c41e6c, 1px 0 1px #c41e6c, 0 1px 1px #c41e6c, -1px 0 1px #c41e6c;
+}
+
+h4.tcard-up-image,
+h4.tcard-up-default{
+    text-align: center;
+}
+
+.tcard-sidebar-item.group-settings h4.tcard-up-image,
+.tcard-sidebar-item.group-settings h4.tcard-up-default{
+    width: 70px;
+}
+
+.arcfilter-container_main{
+    position: relative;
+    float: right;
+    width: -webkit-calc(100% - 332px);
+    width: -moz-calc(100% - 332px);
+    width: calc(100% - 332px);
+    margin-top: 15px;
+    padding-left: 10px;
+    overflow: hidden;
+}
+
+.arcfilter_container_main-inner{
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.tcard-sidebar-item.group-settings.group_price{
+    display: none;
+}
+
+.tcard-sidebar-item.group-settings.group_price.slider,
+.tcard-sidebar-item.group-settings.group_price.normal{
+    display: block;
+}
+
+.arcfilter-count-cat {
+    margin-right: 40px;
+    display: inline-block;
+}
+
+.arcfilter-count-cat span{
+    display: inline-block;
+    text-align: center;
+    margin-left: 5px;
+}
+
+.arc_bar_cat{
+    position: relative;
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    height: 39px;
+    line-height: 39px;
+    padding: 0 10px;
+    font-weight: 500;
+    background-color: #f7f7f7;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.arc_bar_cat.category_bar{
+    cursor: pointer;
+}
+
+.arc_bar_cat .category_select_style{
+    position: relative;
+    float: right;
+}
+
+.arc_bar_cat .arc-open-modal{
+    position: relative;
+    float: right;
+    right: auto;
+    bottom: auto;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.tcard-sidebar-item.group-settings.more_items,
+.tcard-sidebar-item.group-settings.first_items,
+.tcard-sidebar-item.group-settings.no_page,
+.tcard-sidebar-item.group-settings.all_cat,
+.arrow_pagination{
+    display: none;
+}
+
+.tcard-sidebar-item.group-settings.more_items.active,
+.tcard-sidebar-item.group-settings.first_items.first_items_active,
+.tcard-sidebar-item.group-settings.no_page_active,
+.tcard-sidebar-item.group-settings.all_cat_active,
+.arrow_pagination.arrow_pagination_active{
+    display: block;
+}
+
+
+.tcard-sidebar-item.group-settings .tc-check-settings{
+    float: right;
+}
+
+.tc-check-settings.hover_image{
+    top: 5px;
+}
+
+.arcfilter-row{
+    position: relative;
+    float: left;
+    width: 100%;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-top: 0;
+    margin-top: 15px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box; 
+}
+
+.arcfilter-categories .arcfilter-row{
+    margin-top: 0;
+}
+
+.arc_container{
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 3px;
+    border-top: 1px solid #eeeeee;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.arc_container.close{
+    display: none;
+}
+
+.wc-advanced-filter .advanced-filter-type{
+    position: relative;
+    float: left;
+    width: 100%;
+}
+.wc-advanced-filter .advanced-filter-type.attr{
+    border-bottom: 1px solid #eee;
+}
+
+.wc-advanced-filter .advanced-filter-type.attr .filter-head{
+    border-bottom: none;
+}
+
+.wc-advanced-filter .advanced-filter-type.attr .filter-options{
+    border-top: 1px solid #eee;
+}
+
+.tcard-sidebar-item.group-settings .wc_get_attributes{
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.tcard-sidebar-item.group-settings .wc_get_attributes .wc_get_attribute{
+    float: left;
+    position: relative;
+    width: -webkit-calc(100% - 6px);
+    width: calc(100% - 6px);
+    text-align: center;
+    margin: 3px;
+    padding: 0;
+    border: 1px solid #e7e7e7;
+    background: #fdfdfd;
+    cursor: pointer;
+    text-align: left;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.tcard-sidebar-item.group-settings .wc_get_attributes .wc_get_attribute h4{
+    width: auto;
+    padding-left: 5px;
+}
+
+.tcard-sidebar-item.group-settings .remove_attr_wc{
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    width: 16px;
+    height: 16px;
+    border-radius: 2px;
+    background: #f62688;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.tcard-sidebar-item.group-settings .remove_attr_wc:before,
+.tcard-sidebar-item.group-settings .remove_attr_wc:after{
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 2px;
+    background: #fff;
+    top: 7px;
+}
+
+.tcard-sidebar-item.group-settings .remove_attr_wc:before{
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.tcard-sidebar-item.group-settings .remove_attr_wc:after{
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.category_box{
+    float: left;
+    position: relative;
+    width: -webkit-calc(50% - 6px);
+    width: calc(50% - 6px);
+    text-align: center;
+    margin: 3px;
+    padding: 20px 0;
+    border: 1px solid #e7e7e7;
+    background: #fdfdfd;
+    cursor: pointer;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.arcfilter-item{
+    float: left;
+    position: relative;
+     width: -webkit-calc(100% - 6px);
+    width: calc(100% - 6px);
+    text-align: center;
+    margin: 3px;
+    padding: 20px 0;
+    border: 1px solid #e7e7e7;
+    background: #fdfdfd;
+    cursor: pointer;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.category_box.current{
+    background: #f62688;
+    color: #fff;
+}
+
+.tcard-modal-body{
+    text-align: left;
+}
+
+.arc-open-modal{
+    position: absolute;
+    right: 3px;
+    bottom: 2px;
+    z-index: 2;
+    font-size: 14px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.arc-open-modal:hover {
+    color: #f62688;
+}
+
+#arcfilter .tcard-arrow{
+    margin-left: 10px;
+    top: 2px;
+}
+
+.arc-delete-category{
+    position: absolute;
+    right: 3px;
+    bottom: 2px;
+    z-index: 2;
+    font-size: 13px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.arc-delete-category:hover {
+    color: #e52b50;
+}
+
+.category_box.current .arc-delete-category:hover{
+    color: #666;
+}
+
+.modal-arcfilter .tcard-modal-item {
+    margin-bottom: 20px;
+}
+
+.modal-arcfilter .tcard-modal-item.choose_category,
+.modal-arcfilter .tcard-modal-item.show_more_items{
+    display: none;
+}
+
+.modal-arcfilter .tcard-modal-item.is-selected,
+.modal-arcfilter .tcard-modal-item.more_items{
+    display: block;
+}
+
+.modal-arcfilter .tcard-modal-item h4, 
+.modal-arcfilter .tcard-animation h4{
+    position: relative;
+    width: 140px;
+    float: left;
+    margin: 0 5px 0 0;
+    line-height: 27px;
+}
+
+.modal-arcfilter .tcard-modal-item:nth-child(odd){
+    background: none;
+}
+
+.modal-arcfilter .tcard-modal-header{
+    background: #f62688;
+}
+
+.arc_bar_cat select{
+    float: right;
+    top: 6px;
+}
+
+.category_title_row{
+    display: none;
+}
+
+.category_header,
+.category_header span{
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.table-tc-settings td select,
+.table-tc-settings td input[type="number"],
+.table-tc-settings td input[type="text"]{
+    width: 160px;
+}
+
+.clear-random{
+    color: #0073aa;
+    cursor: pointer;
+    margin-top: 15px;
+    font-size: 14px;
+    line-height: 15px;
+}
+
+.add-arcfilter-cat{
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 30px;
+    margin-top: 15px;
+    line-height: 30px;
+    text-align: center;
+    background: #f62688;
+    color: #fff;
+    cursor: pointer;
+}
+
+.tcard-modal-body.arcfilter-settings {
+    max-width: 650px;
+}
+
+.main_menu{
+    width: 100%;
+    position: relative;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.main_menu_item{
+    position: relative;
+    float: left;
+    width: 50%;
+    text-align: center;
+    color: #666;
+    text-transform: capitalize;
+    cursor: pointer;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;    
+}
+
+.menu_style {
+    position: relative;
+    float: left;
+    width: 280px;
+    margin-left: 15px;
+    min-height: 400px;
+}
+
+.menu_style .parent-style,
+.menu_style .load_more{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.menu_style .parent-style ul{
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.menu_style .parent-style.pagination,
+.menu_style .load_more{
+    top: auto;
+    bottom: 0;
+}
+
+.menu_style ul li{
+    position: relative;
+    float: left;
+    margin: 0;
+    line-height: normal;
+}
+
+.menu_style ul li a{
+    color: initial;
+    line-height: normal;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.menu_style ul li a:hover,
+.menu_style ul li a:focus{
+    color: initial;
+    outline: none;
+    box-shadow:none;
+}
+
+.menu_style .load_more{
+    cursor: pointer;
+}
+
+.menu_style .load_more span{
+    position: relative;
+    z-index: 32;
+}
+
+.menu_style .load_more .hover_btn{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    opacity: 0;
+    cursor: pointer;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.menu_style .load_more .link:hover .hover_btn{
+    opacity: 1;
+}
+
+.arc_style_container{
+    width: 100%;
+    position: relative;
+    float: left;
+    min-height: 500px;
+}
+
+.set_style_container {
+    position: relative;
+    float: right;
+    width: 323px;
+    display: none;
+    padding: 0 5px;
+    margin-left: 15px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.menu_container{
+    position: relative;
+    float: left;
+    width: 100%;
+    background-color: #f7f7f7;
+    text-transform: capitalize;
+    border: 1px solid #eee;
+    margin-bottom: 10px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.menu_container_title {
+    float: left;
+    width: 103px;
+    text-align: center;
+    cursor: pointer;
+    color: #666;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+
+.set_style{
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.set_style_inner{
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid #eee;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.set_style_title{
+    padding: 5px 10px;
+    background: #f7f7f7;
+    color: #666;
+    cursor: pointer;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.set_all_style{
+    position: relative;
+    float: left;
+    width: 100%;
+    border-top: 1px solid #eee;
+    padding: 5px 10px;
+    display: none;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.set_style_container.active,
+.set_style.active{
+    display: block;
+}
+
+.main_menu_item.active,
+.menu_container_title.active{
+    background-color: #c0c;
+    color: #fff;
+}
+
+.mini_boxs_ul_style{
+    position: relative;
+    padding: 0;
+    width: 100%;
+    float: left;
+    list-style: none;
+    color: #666;
+    width: auto;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: -ms-flex;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-flow: row wrap;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    -ms-flex-align: center;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.mini_boxs_ul_style li{
+    width: 95px;
+    position: relative;
+    float: left;
+    font-size: 12px;
+    text-align: center;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+.mini_boxs_ul_style li input{
+    width: 95%;
+}
+
+.mini_boxs_ul_style li select{
+    top: 0;
+}
+
+.mini_boxs_ul_style li.side_title {
+    font-size: 14px;
+    margin-top: 14px;
+    text-align: left;
+    width: 65px;
+}
+
+.mini_boxs_ul_style li.half {
+    width: 100%;
+}
+
+.mini_boxs_ul_style.padding li {
+    width: 72px;
+    margin-bottom: 0;
+}
+
+.mini_boxs_ul_style .half:last-child{
+    margin-bottom: 0;
+}
+
+.mini_boxs_ul_style.border_radius li.side_title {
+    width: 100%;
+}
+
+.mini_boxs_ul_style.border_radius li.side_title span {
+    width: 93px;
+    margin-right: 15px;
+    display: inline-block;
+}
+
+.mini_boxs_ul_style.border_radius li.side_title input {
+    width: 177px;
+}
+
+.mini_boxs_ul_style li.font_color {
+    height: auto;
+}
+
+.mini_boxs_ul_style li.font_color{
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: left;
+    line-height: 30px;
+}
+
+.mini_boxs_ul_style li.font_color .button.button-small.wp-picker-clear{
+    width: auto;
+}
+
+.mini_boxs_ul_style li.font_color span,
+.mini_boxs_ul_style li.font_color textarea{
+    width: 100%;
+    float: left;
+}
+
+.mini_boxs_ul_style li.font_color span.wp-color-result-text,
+.mini_boxs_ul_style li.font_color span.wp-picker-input-wrap{
+    width: auto !important;
+    float: none !important;
+}
+
+.mini_boxs_ul_style li.font_color textarea{
+    resize: none;
+    height: 50px;
+}
+
+.set_all_style .wp-picker-container{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.set_all_style .half .wp-picker-container{
+    margin-top: 0;
+}
+
+.mini_boxs_ul_style li.font_color .wp-picker-container{
+    position: relative;
+    float: right;
+    margin-top: 5px;
+    line-height: 20px;
+}
+
+.mini_boxs_ul_style li.font_color .font_size {
+    width: 105px;
+    float: right;
+    margin: 0 6px 6px 0;
+}
+
+.mini_boxs_ul_style li.font_color .font_size.wp-color-picker{
+    width: 65px;
+}
+
+.wp-core-ui .button.button-small{
+    width: auto;
+}
+
+.category_header span div{
+    display: inline-block;
+}
+
+.arcfilter-items-set{
+    float: right;
+    margin-right: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#arcfilter .tc-post-element{
+   line-height: initial;
+}
+
+#arcfilter .post_select_type{
+    float: none;
+    top: 0;
+    position: relative;
+    margin-left: 10px;
+}
+
+#arcfilter .tc_post_item input{
+    margin-left: 10px;
+}
+
+.arcfilter_item_post{
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;  
+}
+
+.arc_loader{
+    width: 12px;
+    top: 1px;
+    position: relative;
+}
+
+.loader_add_cart h4 img{
+    background: #444;
+    padding:1px;
+}
+
+.arc_bar_cat select.select_woocommerce{
+    float: left;
+    top: 0;
+    width: 250px;
+    margin-left: 10px;
+}
+
+.select_wc_method{
+    width: 85px;
+    background: #4facff;
+    float: left;
+    color: #fff;
+    cursor: pointer;
+    text-transform: capitalize;
+    text-align: center;
+    margin: 1px;
+    padding: 0 5px;
+    box-sizing: border-box;
+    line-height: normal;
+    height: 38px;
+    font-size: 12px;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: -ms-flex;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-flow: row wrap;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    -ms-flex-align: center;
+    -webkit-box-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-post-header.select_woocommerce{
+    padding: 16px 10px 10px 10px;
+}
+
+.tcard-modal-body.arcfilter-settings .tc_post_item.group{
+    font-size: 12px;
+}
+
+.tcard-sidebar-head .open-wc-advanced-filter{
+    position: relative;
+    line-height: 28px;
+    float: right;
+    cursor: pointer;
+}
+
+.tcard-sidebar-head .open-wc-advanced-filter.active{
+    color: #f62688
+}
+
+.tcard-sidebar{
+    overflow: hidden;
+}
+
+.wc-advanced-filter{
+    position: absolute;
+    width: 100%;
+    left: -100%;
+    background: #fff;
+    z-index: 1;
+    top: 40px;
+    bottom: 0;
+    -webkit-transition: left 0.3s ease-in-out;
+    -moz-transition: left 0.3s ease-in-out;
+    transition: left 0.3s ease-in-out;
+}
+
+.wc-advanced-filter.active{
+    left: 0;
+}
+
+.wc-advanced-filter .filter-head{
+    float: left;
+    width: 100%;
+    padding: 5px 10px;
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #eee;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.wc-advanced-filter .filter-options{
+    float: left;
+    width: 100%;
+    display: none;
+}
+
+.wc-advanced-filter .filter-options .tcard-sidebar-item{
+    margin: 0;
+}
+
+.wc-advanced-filter .tcard-sidebar-item.group-settings h4{
+    font-size: 14px;
+}
+
+.arc_container .tcard-sidebar-item {
+    position: relative;
+    float: left;
+    height: 70px;
+    width: -webkit-calc(50% - 6px);
+    width: calc(50% - 6px);
+    text-align: center;
+    margin: 3px;
+    padding: 20px 0;
+    border: 1px solid #e7e7e7;
+    background: #fdfdfd;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.arc_container .right{
+    position: relative;
+    float: right;
+    padding-right: 5px;
+}
+
+.arc_container .tcard-sidebar-item.group-settings h4{
+    position: relative;
+    float: left;
+    font-size: 14px;
+    text-align: left;
+    line-height: 28px;
+    padding-left: 5px;
+}
+
+.tcard-sidebar-item.group-settings h4{
+    line-height: 28px;
+}
+
+.arc_container .tcard-sidebar-item.group-settings h4.tcard-up-image{
+    margin-right: 5px;
+}
+
+.arc_container .tcard-sidebar-item.group-settings h4.tcard-up-image,
+.arc_container .tcard-sidebar-item.group-settings h4.tcard-up-default{
+    text-align: center;
+    padding: 0;
+}
+
+.arc_container .tcard-sidebar-item.dropdown-menu{
+    width: 100%;
+    height: auto;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.arc_container .tcard-sidebar-item.group-settings .item-head{
+    float: left;
+    width: 100%;
+    padding: 5px 10px;
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #eee;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+@media only screen and (max-width: 1200px){
+    .arc_container .right .tcard-input{
+        width: 100px;
+    }
+
+    .arc_container .tcard-sidebar-item.group-settings h4{
+        width: 75px;
+        line-height: normal;
+    }
+
+    .arc_container .tcard-sidebar-item.group-settings.image_loader h4{
+        line-height: 28px;
+        width: 66px;
+    }
+
+    .arc_container .tcard-sidebar-item.group-settings h4.tcard-up-image,
+    .arc_container .tcard-sidebar-item.group-settings h4.tcard-up-default{
+        width: 53px;
+        padding-left: 2px;
+    }
+
+    .header-btns .tc-header-icon,
+    .arcfilter-count-cat{
+        margin-right: 25px
+    }
+
+    .select-tcard-group select{
+        width: 100px;
+    }
+
+}

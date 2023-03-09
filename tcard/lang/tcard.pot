@@ -1,0 +1,1418 @@
+# Copyright (C) 2018 tcard
+# This file is distributed under the same license as the tcard package.
+msgid ""
+msgstr ""
+"Project-Id-Version: tcard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-20 19:44+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/TcardAdmin.php:342
+msgid "element "
+msgstr ""
+
+#: admin/TcardAdmin.php:354 admin/templates/TcardDashboard.php:177
+msgid "Order by:"
+msgstr ""
+
+#: admin/TcardAdmin.php:364 admin/templates/TcardDashboard.php:188
+msgid "Order:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:22
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:21
+msgid "Select group:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:37
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:36
+msgid "or"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:38
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:37
+msgid "Create a new group"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:42
+msgid "Total skins:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:52
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:47
+msgid "Group - "
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:57
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:57
+msgid "Group name"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:59
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:59
+#, php-format
+msgid "If you want to display %s name of this group %s set this option true"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:65
+msgid "Turn off flip"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:66 admin/templates/TcardDashboard.php:81
+#: admin/templates/TcardDashboard.php:86 admin/templates/TcardDashboard.php:96
+#: admin/templates/TcardDashboard.php:111 admin/templates/TcardSkins.php:49
+#: admin/templates/TcardSkins.php:54 admin/templates/TcardSkins.php:83
+msgid "Default: false"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:70
+msgid "Tcard on"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:71
+msgid "Default: button"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:75
+msgid "Animations front"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:76
+msgid "Default: ready"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:80
+msgid "Animations once"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:85
+msgid "Random color"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:90
+msgid "Count time"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:91
+msgid "Default: 900"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:95
+msgid "Individual gallery"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:100
+msgid "Autocomplete"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:101
+msgid "Default: off"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:105
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:104
+msgid "Container"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:106
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:105
+msgid "Default: fixed"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:110
+msgid "Widget group"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:133
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:351
+msgid "Set group name:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:137
+msgid "Select Skin:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:149
+msgid "Header"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:150
+msgid "Content"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:151
+msgid "Footer"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:152
+msgid "Social"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:158
+msgid "Twitter Profile"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:161
+msgid "Twitter feed"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:167
+msgid "Select category:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:197
+msgid "Bootstrap:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:205
+msgid " - This option will be applied for all tcard groups"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:206
+msgid ""
+" - If you already have installed one of this bootstrap version just let "
+"empty select area"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:210
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:444
+msgid "How to use"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:211
+msgid ""
+"To display your tcard group, add the following shortcode (violet) to your "
+"page. If adding the tcard group to your theme files, additionally include "
+"the surrounding PHP function (magenta)."
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:214
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:448
+msgid "Copy all"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:48
+msgid "Cubicbezier"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:53
+msgid "Frostedglass"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:58
+msgid "Viewport In"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:60
+#, php-format
+msgid "Default: false %s if is empty"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:66
+msgid "Viewport Out"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:68
+#, php-format
+msgid "Default: false %s if Viewport In is empty"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:74
+msgid "Set viewIn"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:76
+#, php-format
+msgid "Default: %s"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:82
+msgid "Widget Skin"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:87
+msgid "Max Width"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:88
+msgid "Default: 280px"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:93
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:110
+msgid "Extra small"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:95 admin/templates/TcardSkins.php:103
+#: admin/templates/TcardSkins.php:111 admin/templates/TcardSkins.php:119
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:112
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:120
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:128
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:136
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:101
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:118
+msgid "Small"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:109
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:126
+msgid "Medium"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:117
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:134
+msgid "Large"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:125
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:142
+msgid "Extra large"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:127
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:144
+#, php-format
+msgid "Width: %s only for bootstrap 4"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:139
+msgid "Twitter username"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:140
+msgid "Username without @ character"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:144
+msgid "Twitter access token"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:148
+msgid "Twitter access token secret"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:152
+msgid "Twitter consumer key"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:156
+msgid "Twitter consumer secret"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:257
+msgid "Gallery:"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:259
+msgid "Assigns to"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:269
+msgid "Thumbnail title:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:20
+msgid "Content:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:22
+#: admin/templates/elements/TcardFooterElements.php:22
+msgid "Add Item"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:27
+#: admin/templates/elements/TcardFooterElements.php:27
+#: admin/templates/elements/TcardHeaderElements.php:50
+msgid "Settings"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:28
+#: admin/templates/elements/TcardFooterElements.php:28
+#: admin/templates/elements/TcardHeaderElements.php:51
+#: inc/arcfilter/admin/templates/ArcfilterSettingsTemplate.php:334
+msgid "Text"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:29
+#: admin/templates/elements/TcardFooterElements.php:29
+#: admin/templates/elements/TcardHeaderElements.php:52
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:69
+msgid "Animations"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:36
+msgid "Add Slide"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:47
+msgid "Skills type:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:54
+msgid "Skill percent:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:91
+#: admin/templates/elements/TcardContentElements.php:335
+#: admin/templates/elements/TcardContentElements.php:418
+#: admin/templates/elements/TcardFooterElements.php:125
+#: admin/templates/elements/TcardHeaderElements.php:62
+#: admin/templates/elements/TcardHeaderElements.php:78
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:236
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:264
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:340
+#: inc/widgets/TcardWidgetClass.php:203
+msgid "Title:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:99
+#: admin/templates/elements/TcardContentElements.php:136
+#: admin/templates/elements/TcardContentElements.php:423
+#: admin/templates/elements/TcardFooterElements.php:133
+#: admin/templates/elements/TcardHeaderElements.php:86
+msgid "Description:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:123
+msgid "Text:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:123
+msgid "tag"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:153
+#: admin/templates/elements/TcardHeaderElements.php:99
+msgid "Image:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:153
+#: admin/templates/elements/TcardHeaderElements.php:99
+#, php-format
+msgid "Image size: %s"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:155
+msgid "Upload Image"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:166
+#: admin/templates/elements/TcardContentElements.php:183
+#: admin/templates/elements/TcardHeaderElements.php:112
+#: admin/templates/elements/TcardHeaderElements.php:129
+#: admin/templates/elements/TcardHeaderElements.php:221
+msgid "Button Type:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:166
+msgid "If the gallery exists"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:179
+#: admin/templates/elements/TcardContentElements.php:252
+#: admin/templates/elements/TcardContentElements.php:363
+#: admin/templates/elements/TcardHeaderElements.php:125
+msgid "Email:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:183
+msgid "If is an email set:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:252
+msgid "Default: admin email"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:276
+msgid "Submit button:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:276
+msgid "Default:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:296
+msgid "Login title:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:301
+msgid "Label login:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:301
+msgid "Default: Login"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:306
+msgid "Label password:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:306
+msgid "Default: Password"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:311
+msgid "Label button:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:311
+msgid "Default: Submit"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:316
+msgid "Remember password:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:316
+msgid "Default: Remember me"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:322
+msgid "After Login display:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:322
+msgid "Clear"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:342
+msgid "Message to user:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:342
+msgid "Default: Hello"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:346
+msgid "Logout button:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:346
+msgid "Default: Logout"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:347
+#: front/templates/elements/TcardContentElements.php:294
+msgid "Logout"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:359
+msgid "Address:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:367 inc/TcardForms.php:57
+msgid "Phone:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:371
+msgid "Phone 2:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:429
+msgid "Button Text:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:433
+msgid "Button Link:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:484
+#: inc/arcfilter/admin/templates/ArcfilterSettingsTemplate.php:239
+#: inc/arcfilter/admin/templates/ArcfilterSettingsTemplate.php:312
+msgid "Max words"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:488
+#: inc/arcfilter/admin/templates/ArcfilterSettingsTemplate.php:243
+msgid "Button Text"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:500
+#: inc/arcfilter/admin/templates/ArcfilterSettingsTemplate.php:254
+msgid "Type"
+msgstr ""
+
+#: admin/templates/elements/TcardFooterElements.php:20
+msgid "Footer:"
+msgstr ""
+
+#: admin/templates/elements/TcardFooterElements.php:44
+msgid "Button type:"
+msgstr ""
+
+#: admin/templates/elements/TcardFooterElements.php:53
+msgid "Button URL:"
+msgstr ""
+
+#: admin/templates/elements/TcardFooterElements.php:58
+msgid "Button Name:"
+msgstr ""
+
+#: admin/templates/elements/TcardFooterElements.php:62
+msgid "Extra Text:"
+msgstr ""
+
+#: admin/templates/elements/TcardFooterElements.php:151
+msgid "Item Title:"
+msgstr ""
+
+#: admin/templates/elements/TcardHeaderElements.php:26
+msgid "Button:"
+msgstr ""
+
+#: admin/templates/elements/TcardHeaderElements.php:45
+msgid "Header:"
+msgstr ""
+
+#: admin/templates/elements/TcardHeaderElements.php:129
+msgid "If is an email set"
+msgstr ""
+
+#: admin/templates/elements/TcardHeaderElements.php:197
+#: admin/templates/elements/TcardSettings.php:352
+msgid "Position:"
+msgstr ""
+
+#: admin/templates/elements/TcardHeaderElements.php:208
+msgid "Style:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:105
+msgid "Box Shadow"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:109
+msgid "Shadow:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:127
+msgid "H-offset"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:130
+msgid "V-offset"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:133
+msgid "Blur"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:136
+msgid "Spread"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:139
+msgid "Opacity"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:154
+msgid "Border"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:158
+#: admin/templates/elements/TcardSettings.php:271
+msgid "Apply to:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:161
+msgid "all borders"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:162
+msgid "separate border"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:181
+#: admin/templates/elements/TcardSettings.php:293
+msgid "All:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:182
+#: admin/templates/elements/TcardSettings.php:201
+#: admin/templates/elements/TcardSettings.php:216
+#: admin/templates/elements/TcardSettings.php:231
+#: admin/templates/elements/TcardSettings.php:246
+msgid "Width(px)"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:185
+#: admin/templates/elements/TcardSettings.php:204
+#: admin/templates/elements/TcardSettings.php:219
+#: admin/templates/elements/TcardSettings.php:234
+#: admin/templates/elements/TcardSettings.php:249
+msgid "Style"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:200
+msgid "Top:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:215
+msgid "Right:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:230
+msgid "Bottom:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:245
+msgid "Left:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:267
+msgid "Border Radius"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:274
+msgid "all corners"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:275
+msgid "separate corner"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:300
+msgid "Top-Right:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:303
+msgid "Top-Left:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:306
+msgid "Bottom-Right:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:309
+msgid "Bottom-Left:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:325
+msgid "Background"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:329
+msgid "Image"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:329
+msgid "Remove"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:331
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:562
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:573
+msgid "Upload"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:336
+#: admin/templates/elements/TcardSettings.php:347
+#: admin/templates/elements/TcardSettings.php:396
+#: admin/templates/elements/TcardSettings.php:426
+msgid "Color:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:361
+msgid "Size:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:370
+msgid "Repeat:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:379
+msgid "Attachment:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:392
+msgid "Font"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:399
+msgid "Font family:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:401
+msgid "Theme default"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:402
+msgid "Lato(Tcard default)"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:405
+msgid "Font weight:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:415
+msgid "Overlay > Frostedglass"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:419
+msgid "Frostedglass:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:430
+msgid "Background image:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:436
+msgid "Blur:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:439
+msgid "Opacity:"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:450
+msgid "Padding"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:454
+#: admin/templates/elements/TcardSettings.php:476
+msgid "Top"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:457
+#: admin/templates/elements/TcardSettings.php:479
+msgid "Right"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:460
+#: admin/templates/elements/TcardSettings.php:482
+msgid "Bottom"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:463
+#: admin/templates/elements/TcardSettings.php:485
+msgid "Left"
+msgstr ""
+
+#: admin/templates/elements/TcardSettings.php:472
+msgid "Margin"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:32
+msgid "Display user name"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:35
+msgid "Display biography section"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:38
+msgid "Shows user location"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:41
+msgid "Display profile image "
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:44
+msgid "Display profile banner"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:47
+msgid "Display user website"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:51
+#, php-format
+msgid "Need special permissions %s Look %s here %s"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:57
+#, php-format
+msgid "Display how many tweets %s the user has sent"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:62
+msgid "Display number of followers"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:65
+msgid "Display number of friends"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:68
+msgid "Display number of lists"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:85
+#: admin/templates/elements/TcardSocialElements.php:98
+#: admin/templates/elements/TcardSocialElements.php:117
+msgid ":"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:109
+msgid "Counts:"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:128
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:268
+msgid "Type:"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:130
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:271
+msgid "Slider"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:131
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:416
+msgid "Scroll"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:136
+msgid "Tweets number:"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:136
+msgid "Default: 20"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:182
+msgid "Create account"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:189
+msgid "Send Message"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:290
+msgid "Hello"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:343
+msgid "Username"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:344
+msgid "Password"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:345
+msgid "Login"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:346
+msgid "Remember me"
+msgstr ""
+
+#: inc/TcardForms.php:63
+msgid "Company:"
+msgstr ""
+
+#: inc/TcardForms.php:69
+msgid "Website:"
+msgstr ""
+
+#: inc/TcardForms.php:101
+#, php-format
+msgid "Thank %s for your message. It has been sent."
+msgstr ""
+
+#: inc/TcardForms.php:106
+msgid "There was an error trying to send your message. Please try again later."
+msgstr ""
+
+#: inc/TcardForms.php:166
+msgid "Required form field is missing"
+msgstr ""
+
+#: inc/TcardForms.php:171
+msgid "Username too short. At least 4 characters is required"
+msgstr ""
+
+#: inc/TcardForms.php:176
+msgid "Sorry, that username already exists!"
+msgstr ""
+
+#: inc/TcardForms.php:181
+msgid "Sorry, the username you entered is not valid"
+msgstr ""
+
+#: inc/TcardForms.php:186
+msgid "Password length must be greater than 5"
+msgstr ""
+
+#: inc/TcardForms.php:192
+msgid "Passwords do not match"
+msgstr ""
+
+#: inc/TcardForms.php:198
+msgid "Email is not valid"
+msgstr ""
+
+#: inc/TcardForms.php:203
+msgid "Email Already in use"
+msgstr ""
+
+#: inc/TcardForms.php:209
+msgid "Website URL is not valid"
+msgstr ""
+
+#: inc/TcardForms.php:256
+msgid "The username field is empty."
+msgstr ""
+
+#: inc/TcardForms.php:259
+msgid "The password field is empty."
+msgstr ""
+
+#: inc/TcardForms.php:262
+#, php-format
+msgid "There is no account created with this username %s"
+msgstr ""
+
+#: inc/TcardForms.php:266
+#, php-format
+msgid "There is no user registered with this email address %s"
+msgstr ""
+
+#: inc/TcardForms.php:270
+msgid "The email field is empty."
+msgstr ""
+
+#: inc/TcardForms.php:273
+#, php-format
+msgid ""
+"The password you entered for the username %s is incorrect. %s Did you forget "
+"your password ? %s"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterCategoryTemplate.php:13
+msgid "Category Name:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:41
+msgid "Categories:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:52
+msgid "Category \"All\" text"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:53
+msgid "Default: All"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:65
+msgid "Date format"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:70
+msgid ""
+"If option random is false it will select all the time the first animation "
+"selected"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:74
+msgid "Random animations"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:75
+msgid "Default: None"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:79
+msgid "Delay animation"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:80
+msgid "This option make delay between animations"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:84
+msgid "Speed container"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:85
+msgid "Option \"speed\" is the speed off container height"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:89
+msgid "Loading text"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:90
+msgid "Default: Loading..."
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:94
+msgid "No more items to show"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:95
+msgid "Default: No more items"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:99
+msgid "Counter"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:100
+msgid "Will show how many items are in category"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:179
+msgid "Main"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:184
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:229
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:584
+msgid "Visible"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:192
+msgid "Filter position:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:194
+msgid "left"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:195
+msgid "right"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:201
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:241
+msgid "Mobile"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:204
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:244
+msgid "Menu text button:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:208
+msgid "Sidebar title:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:212
+msgid "Filter animation:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:214
+msgid "slide"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:215
+msgid "fade"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:224
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:457
+msgid "Categories"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:253
+msgid "Price"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:257
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:333
+msgid "Visible:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:270
+msgid "Normal"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:278
+msgid "Price text:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:283
+msgid "Min text:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:285
+msgid "Max text:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:294
+msgid "Attribute"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:298
+msgid "Add"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:329
+msgid "Tags"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:355
+msgid "Category type:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:369
+msgid "Add category:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:395
+msgid "Add category"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:401
+msgid "Display Items:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:404
+msgid "Hidden"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:406
+msgid "Ajax"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:411
+msgid "Type of display:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:414
+msgid "Load more"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:415
+msgid "Pagination"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:427
+msgid "Display first items:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:436
+msgid "More items:"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:445
+msgid ""
+"To display your arcfilter group, add the following shortcode (pink) to your "
+"page. If adding the arcfilter group to your theme files, additionally "
+"include the surrounding PHP function (magenta)."
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:503
+#, php-format
+msgid "Page exist %s %s message"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:518
+msgid "Only \"All\" category"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:534
+msgid "Next arrow text"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:541
+msgid "Prev arrow text"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:549
+msgid "Best sellers badge"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:558
+msgid "Loader"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:563
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:574
+msgid "Default"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:569
+msgid "Add to cart loader"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:593
+msgid "Keep walker menu"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:603
+msgid "Animation in"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterDashboard.php:614
+msgid "Animation out"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterItemsTemplate.php:18
+#, php-format
+msgid "Items: %s"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterItemsTemplate.php:37
+msgid "Category - "
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterSettingsTemplate.php:29
+#: inc/elements-class/TcardSettings.php:281
+msgid "Set columns"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterSettingsTemplate.php:135
+msgid "Clear animations"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterSettingsTemplate.php:315
+#: inc/arcfilter/admin/templates/ArcfilterSettingsTemplate.php:322
+msgid "Change image on hover"
+msgstr ""
+
+#: inc/arcfilter/admin/templates/ArcfilterSettingsTemplate.php:329
+#, php-format
+msgid "Sale%s Out of stock%s Featured"
+msgstr ""
+
+#: inc/arcfilter/front/templates/filter/WcSidebarTemplate.php:37
+#: inc/arcfilter/front/templates/filter/WcSidebarTemplate.php:84
+#: inc/arcfilter/front/templates/filter/WcSidebarTemplate.php:113
+msgid "Filter"
+msgstr ""
+
+#: inc/arcfilter/front/templates/wc_products/WCProductCustom.php:31
+#: inc/arcfilter/front/templates/wc_products/WCProductCustom.php:164
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_1.php:28
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_2.php:28
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_3.php:28
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_4.php:31
+msgid "best seller"
+msgstr ""
+
+#: inc/arcfilter/front/templates/wc_products/WCProductCustom.php:39
+#: inc/arcfilter/front/templates/wc_products/WCProductCustom.php:94
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_1.php:42
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_2.php:42
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_3.php:42
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_4.php:45
+msgid "Sale!"
+msgstr ""
+
+#: inc/arcfilter/front/templates/wc_products/WCProductCustom.php:47
+#: inc/arcfilter/front/templates/wc_products/WCProductCustom.php:104
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_1.php:50
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_4.php:53
+msgid "Out of stock"
+msgstr ""
+
+#: inc/arcfilter/front/templates/wc_products/WCProductCustom.php:55
+#: inc/arcfilter/front/templates/wc_products/WCProductCustom.php:114
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_1.php:58
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_2.php:65
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_3.php:65
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_4.php:61
+msgid "featured"
+msgstr ""
+
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_2.php:56
+#: inc/arcfilter/front/templates/wc_products/WCProductStyle_3.php:56
+#, php-format
+msgid "Out %s of stock"
+msgstr ""
+
+#: inc/arcfilter/front/templates/wp_posts/WPPostCustom.php:74
+#: inc/arcfilter/front/templates/wp_posts/WPPostStyle_1.php:43
+#: inc/arcfilter/front/templates/wp_posts/WPPostStyle_3.php:89
+#: inc/arcfilter/front/templates/wp_posts/WPPostStyle_4.php:58
+msgid "Read More"
+msgstr ""
+
+#: inc/arcfilter/inc/ArcfilterSettings.php:27
+#: inc/elements-class/TcardSettings.php:52
+msgid "settings"
+msgstr ""
+
+#: inc/arcfilter/inc/ArcfilterSettings.php:31
+msgid "items settings"
+msgstr ""
+
+#: inc/arcfilter/inc/ArcfilterSettings.php:90
+msgid "All"
+msgstr ""
+
+#: inc/arcfilter/inc/ArcfilterSettings.php:157
+msgid "Oops!! This page does not exist."
+msgstr ""
+
+#: inc/elements-class/TcardAnimations.php:52
+msgid "Animation In:"
+msgstr ""
+
+#: inc/elements-class/TcardAnimations.php:61
+msgid "Animation Out:"
+msgstr ""
+
+#: inc/elements-class/TcardAnimations.php:82
+msgid "Delay:"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:178
+msgid "Email"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:179
+msgid "First name"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:180
+msgid "Last name"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:181
+msgid "Display name"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:182
+msgid "Description"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:183
+msgid "Nickname"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:184
+msgid "Website"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:366
+msgid "item"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:369
+msgid "skill"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:380
+#: inc/elements-class/TcardHeader.php:156
+msgid "Is set"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:394
+#: inc/elements-class/TcardFooter.php:310
+#: inc/elements-class/TcardHeader.php:350
+msgid "empty"
+msgstr ""
+
+#: inc/widgets/TcardWidgetClass.php:39
+msgid "Tcard Widget"
+msgstr ""
+
+#: inc/widgets/TcardWidgetClass.php:199
+msgid "New title"
+msgstr ""
